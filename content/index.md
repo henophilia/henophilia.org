@@ -1,1 +1,264 @@
-# Welcome to my Flowershow site!
+Imagine that you have just been born. Certain terms might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms ([tabula rasa](https://en.wikipedia.org/wiki/Tabula_rasa)) and engage in [bracketing](https://en.wikipedia.org/wiki/Bracketing_(phenomenology)).
+# The One
+"The One" shall refer to the ultimate, transcendent principle which relates to unity and simplicity, beyond all multiplicity and distinctions. The One can be seen as "godly" in the sense of "The divine encompasses everything".
+
+Terms for this concept in different frameworks include:
+- [the One](https://en.wikipedia.org/wiki/Neoplatonism#The_One) (ancient Greek: hen = unity) in the works of Plotinus (neoplatonism)
+- [monism](https://en.wikipedia.org/wiki/Monism) and [nondualism](https://en.wikipedia.org/wiki/Nondualism)
+- [pantheism](https://en.wikipedia.org/wiki/Pantheism)
+- the [absolute](https://en.wikipedia.org/wiki/Absolute_(philosophy)) in the works of Hegel and others
+- seeing [brahman](https://en.wikipedia.org/wiki/Brahman) and [atman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) as identical, as in the Hindu school of [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (advaita = non-dualism, vedanta = dualism)
+	- [nirvana](https://en.wikipedia.org/wiki/Nirvana) in certain Hindu traditions
+- [the Tao](https://en.wikipedia.org/wiki/Tao) in Daoism
+- [God](https://en.wikipedia.org/wiki/God)
+- [Ein Sof](https://en.wikipedia.org/wiki/Ein_Sof) in Kabbalah
+- [wujūd](https://en.wikipedia.org/wiki/Wujud) in Sufism
+- [tawhid](https://en.wikipedia.org/wiki/Tawhid) in Islam
+- [teotl](https://en.wikipedia.org/wiki/Teotl) in Aztec frameworks
+- [chaos](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Greco-Roman_tradition) in Greco-Roman tradition
+- [tiamat](https://en.wikipedia.org/wiki/Tiamat) in Mesopotamian religion
+- [ginnungagap](https://en.wikipedia.org/wiki/Ginnungagap) in Nordic mythology
+- [Theory of Everything](https://en.wikipedia.org/wiki/Theory_of_everything) in physics
+- [unmoved mover](https://en.wikipedia.org/wiki/Unmoved_mover)
+
+The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) which aim to be universal are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete, see:
+
+- [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+- [Liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)
+- and especially [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+
+That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false".
+# The human experience
+## Systems
+### Separation
+"Separation" shall refer to the intuitive observation that a core part of the human experience is that some ideas, concepts, people etc. **appear separate, separable and distinguishable** from each other.
+
+Separation is purely [phenomenological](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)), i.e. it describes "how the world **appears** to be" from the subjective human perspective.
+### Emanation
+Because the One "includes everything", it also includes every concept and its opposite, including the unification of the two human concepts "monism" and "dualism" as well as the unification of "separation" and "unity". This concept shall be referred to as "emanation": **Separation emanates from the One.**
+
+Consequently, the field of [systems theory](https://en.wikipedia.org/wiki/Systems_theory) (i.e. the fact **that**, within the human experience, there are **components** which can form **systems** at all) directly emanates from the One as well.
+
+Terms related to this observation include:
+- [dualistic monism](https://en.wikipedia.org/wiki/Dialectical_monism)
+- [panentheism](https://en.wikipedia.org/wiki/Panentheism)
+- [emanationism](https://en.wikipedia.org/wiki/Emanationism)
+- the unity of [transcendence](https://en.wikipedia.org/wiki/Transcendence_(religion)) and [immanence](https://en.wikipedia.org/wiki/Immanence)
+- [maya](https://en.wikipedia.org/wiki/Maya_(religion)) in Advaita Vedanta (Hinduism)
+- [taiji](https://en.wikipedia.org/wiki/Taiji_(philosophy)) in Daoism
+	- [yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
+- beliefs which attach a hierarchy to the separation
+	- [Sefirot](https://en.wikipedia.org/wiki/Sefirot) in Kabbalah
+	- [great chain of being](https://en.wikipedia.org/wiki/Great_chain_of_being) in Christianity ("god" is seen as on top of the chain, but also the creator of the chain itself)
+	- [marāṭib al-wujūd](https://medium.com/@miainsel2/sufi-metaphysics-wujud-bc86e54f0176) in Sufism
+## Constructing reality
+### Subjectivity
+"Subjectivity" shall refer to the observation that within the ubiquitous system emanating from the One, "you" are just one of the parts. It refers to a certain level of **separation** you perceive between what you call "I", "ego", "self" etc. and your "**environment**", resulting in self-awareness.
+### Now
+"Now" shall refer to your subjective experience of what is "real" in this exact moment. This implies a certain **separation** between **reality** and **imagination**. The Now can include aspects such as:
+- how your body feels right now
+- which emotions you currently feel
+- what your cognitive focus is currently directed towards
+- the thoughts you are having right now (e.g. these words, thinking about other things, people or locations, the past, the future, memories, ideas, plans, dreams etc.)
+- the feeling that time is passing, that you know whether one event was "before" or "after" another ([temporality](https://en.wikipedia.org/wiki/Temporality)) and, most importantly, that you are aware that your current Now can influence your future Now ([prospective memory](https://en.wikipedia.org/wiki/Prospective_memory))
+### Primordial striving
+"Primordial striving" (German: Urwille or Urstreben) shall refer to a fundamental inherent, intrinsic will, drive, motivation or urge. From the human perspective, it can be seen as the single **compass** "towards" the One. 
+
+Of course the One is not "achievable" and it's also not possible to be "closer" or "further away" from the One, because it's neither a location nor a state of mind nor anything else "specific". This means that effectively, every primordial striving is fundamentally **constructed by humans**.
+
+A primordial striving shall be called **universal** when it is applicable to **every** aspect of an individual's experience of the world. Such a world view's core is **defined** by its primordial striving. Believing in a universal primordial striving brings **meaning** into the an individual's life.
+### Tenets
+"Tenets" shall refer to the different rules, principles, guidelines, teachings etc. which humans attribute as authoritative for how to **practically** follow a certain primordial striving. Tenets aim to answer "Why this and not that?" and, for some types of tenets, even "This is how you shall live".  for every imaginable situation in an individual's life.
+
+Notions of "ethics" and "morality" in a certain world view are directly derived from that world view's tenets and thus from its primordial striving. This means that fundamentally there cannot be any "right" or "wrong" primordial striving, because the tenets associated with the primordial striving **themselves** define what is right or wrong.
+
+For world views with a notion of [worship](https://en.wikipedia.org/wiki/Worship), the One is the **target** of worship, the primordial striving is **why** it is worshipped and tenets are **how** it is worshipped.
+
+Examples include:
+- [dharma](https://en.wikipedia.org/wiki/Dharma) in Dharmic religions (with the striving towards a notion of the One like nirvana), with certain concrete rulesets, principles or practices that claim to make someone more aligned with dharma, such as
+	- the [Five Precepts](https://en.wikipedia.org/wiki/Five_precepts) and the [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path) in buddhism
+	- the principles explained in the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Message_of_the_Guru_Granth_Sahib) in Sikhism
+	- the [Manusmriti](https://en.wikipedia.org/wiki/Manusmriti) in Hinduism (including [varna](https://en.wikipedia.org/wiki/Varna_(Hinduism)), a foundation for the caste system)
+- [will of God](https://en.wikipedia.org/wiki/Will_of_God) in Abrahamic religions (expressed e.g. in the Torah, Bible and Qaran)
+	- include more concrete rulesets such as the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments)
+	- interestingly, to reinforce the validity of its rules even further, Islam has the notion of [fitra](https://en.wikipedia.org/wiki/Fitra) to invalidate the idea that Islam is a **learnt** belief system constructed by humans like any other
+- [asha](https://en.wikipedia.org/wiki/Asha) in Zoroastrianism
+- [logos](https://en.wikipedia.org/wiki/Logos#Stoics) in Stoicism
+- [law](https://en.wikipedia.org/wiki/Law), especially in modern nation states, typically to strive for goals like maintaining order, promoting the "common good" etc.
+	- typically law is "less universal" than the other types of tenets mentioned above, because often it is [negative](https://en.wikipedia.org/wiki/Negative_and_positive_rights), i.e. it tells people what **not** to do
+	- in contrast, **rights** are formulated in a **positive** way (see e.g. [three generations of human rights](https://en.wikipedia.org/wiki/Three_generations_of_human_rights)), i.e. they say what people **should** do
+- different authoritative works in ideologies like capitalism, socialism, communism (e.g. "The Communist Manifesto"), liberalism, fascism, anarchism etc.
+- attempts to discover a primordial striving common to every human, in the context of philosophy and psychotherapy
+	- Nietzsche's [will to power](https://en.wikipedia.org/wiki/Will_to_power)
+	- Freud's [will to pleasure](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology))
+	- Frankl's [will to meaning](https://en.wikipedia.org/wiki/Logotherapy)
+	- Schopenhauer portraying existence as driven by a blind, insatiable will, leading to constant dissatisfaction (in [The World as Will and Representation](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation))
+## Pleasure
+"Pleasure" shall refer to the experience of **subjective well-being**. Colloquially, it can be interpreted as simply "feeling good".
+
+More concretely, this concept of pleasure can roughly be grouped into three aspects. Note that these aspects should not be seen as "stages" or a "sequence", but instead as parts which are all equally relevant without any specific order. They are closely linked to [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
+### Satisfaction
+"Satisfaction" shall refer to the **fulfillment of basic needs** in the **Now**, such as:
+- food, water, warmth, rest (surviving)
+- physical or emotional safety (feeling safe)
+- trust, sexuality, belonging, self-confidence and freedom (feeling like your presence is appreciated and that you are trusted and loved, both by yourself and by others)
+### Peak experiences
+"Peak experiences" refer to **experiences in which a subset of the aspects of satisfaction is strongly emphasized temporarily**. Note that the temporary nature is what makes them pleasurable, i.e. living an entire life in only a single peak experience would typically not be sustainable or feasible in the long term.
+
+This is yet another term from Maslow, who described [peak experiences](https://en.wikipedia.org/wiki/Peak_experience) as "rare, exciting, oceanic, deeply moving, exhilarating, elevating experiences that generate an advanced form of perceiving reality, and are even mystic and magical in their effect upon the experimenter."
+
+In practice, peak experiences can come in varying intensities. Some examples include:
+- a deep meditative session
+- creative flow while creating art (e.g. writing, composing, painting etc.)
+- being in a deep conversation with someone where you don't even notice time flying
+- being at an event where you have many experiences which feel incredibly meaningful, pleasurable and inspirational to you (e.g. a burn)
+- the mystical experience of an intense, but highly insightful trip on psychedelics
+- a highly pleasurable sexual or sensual session (e.g. tantra, amazing orgasms, [subspace](https://en.wikipedia.org/wiki/Glossary_of_BDSM#Subspace) and topspace in BDSM etc.)
+- dancing all night long to music you love and getting lost in the music (e.g. at a rave)
+- feeling a rush of gratitude for someone's genuine presence in a vulnerable moment
+- awe-inspiring natural encounters (e.g. watching a sunrise from a mountaintop after a long hike)
+- religious celebrations for respective believers such as [Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur), [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr), [Christmas](https://en.wikipedia.org/wiki/Christmas), [Vesak](https://en.wikipedia.org/wiki/Vesak), [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) and many more (pretty much all cultures have institutionalized peak experiences)
+
+Some associated terms include:
+- euphoria (Euphorie)
+- ecstasy (Ekstase)
+- bliss (Glückseligkeit)
+- rapture (Entzücken)
+- elation (Beschwingtheit)
+- [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) in the works of Csikszentmihalyi
+- [dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Buddhism) in buddhism
+- [samprajñata samādhi](https://en.wikipedia.org/wiki/Samadhi#Sam%C4%81dhi_in_the_Yoga_S%C5%ABtras) in hinduism
+### Stable satisfaction
+"Stable satisfaction" shall refer to a state of mind where satisfaction is something you perceive as **stable**, i.e. where your Now includes the emotion that you are not seriously afraid of re-entering a status where satisfaction not fulfillable.
+
+The main difference is that satisfaction is perceived as an immediate part of the Now, while stable satisfaction is just a reassuring thought. For example, applied to hunger:
+- When you're satisfied in regards to hunger, you are full.
+- When you are stably satisfied in regards to hunger, you can be hungry, but you **know** that your fridge is full, that you have enough money to go to the supermarket or that there's another stable source of food in your life.
+
+Stable satisfaction can thus include factors such as:
+- knowing that you have stable structures around you which ensure that you always have enough food, water, warmth and housing
+- knowing that you genuinely appreciate your own body and feel safe in your own mind
+- feeling a sense of belonging and living in circumstances which you like calling „home“, both physically and socially
+- having structures where the fulfillment of some of your needs doesn't contradict the fulfillment of others (= freedom)
+- having people in your social circles with whom you feel like you are not judged for embracing what feels genuinely pleasurable (= "authentic" or "true") to you
+- knowing that you can always love and that you are always loved, no matter what happens
+- knowing that you have found peace with death, both your own and those of parts of your environment (e.g. other people you love)
+- knowing that, even if some of your basic needs are not fulfilled, you always have the **hope** that it will get better and that you always have the **strength** to act accordingly
+- knowing that, even in situations which feel immensely catastrophic, confusing or hopeless at first, you know that you can handle this, both through your own resilience and possibly through a support network around you, people who care and people who help you find your own way back towards pleasurable stability
+- having daily routines which consistently "feel good" and which you want to keep, because you know that they contribute to your pleasure in the future
+
+Some associated terms for stable satisfaction include (both English and German):
+- life satisfaction (Lebenszufriedenheit)
+- joy of life (Lebensfreude)
+- quality of life (Lebensqualität)
+- fulfillment (Erfüllung)
+- [subjective well-being](https://en.wikipedia.org/wiki/Subjective_well-being) and many other concepts studied by [positive psychology](https://en.wikipedia.org/wiki/Positive_psychology)
+- cultivating [brahmavihārā](https://en.wikipedia.org/wiki/Brahmavihara) in buddhism
+- [kama](https://en.wikipedia.org/wiki/Kama) in Dharmic religions
+- [ikigai](https://en.wikipedia.org/wiki/Ikigai)
+## Love
+With the previous definition of pleasure, "love" can be defined as the **desire** to **bring pleasure into the Now**. It can be directed towards anything – the self, another being, nature or anything in between. Some associated terms include:
+- good will
+- [eunoia](https://en.wikipedia.org/wiki/Eunoia) in the works of Aristotle
+- various [Greek words for love](https://en.wikipedia.org/wiki/Greek_words_for_love), incl. [philautia](https://en.wikipedia.org/wiki/Philautia) (self-love) and [agape](https://en.wikipedia.org/wiki/Agape)
+- [ren](https://inst-east-and-west.org/en/learning/2018/002496.html) in Confucianism
+- [mettā](https://en.wikipedia.org/wiki/Maitr%C4%AB) in buddhism
+- [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) in various African cultures
+- [aloha](https://en.wikipedia.org/wiki/Aloha) in Hawaiian culture
+## Wisdom
+In a similar fashion, "wisdom" can be defined as the **knowledge of ways** to **bring pleasure into the Now**. Some associated terms include:
+- [phronesis](https://en.wikipedia.org/wiki/Phronesis) in the works of Aristotle
+- [zhi](https://inst-east-and-west.org/en/learning/2019/002725.html) in Confucianism
+- [prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_(Hinduism)) in Hinduism
+- specifying "goals", virtues or desirable states of being for life
+	- [brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara) in Buddhism
+	- [puruṣārtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) in Hinduism
+## Flourishing
+Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of existence where **pleasure is the norm in all aspects of life for everyone**. 
+
+Some associated terms include:
+- [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) in the bible
+- [Golden Age](https://en.wikipedia.org/wiki/Golden_Age) in Greek mythology
+- [Sukhavati](https://en.wikipedia.org/wiki/Sukhavati) in Buddhism
+- [Satya Yuga](https://en.wikipedia.org/wiki/Satya_Yuga) and [Svarga](https://en.wikipedia.org/wiki/Svarga) in Hinduism
+- [Tian](https://en.wikipedia.org/wiki/Tian) in Confucianism and Taoism
+- [Frashokereti](https://en.wikipedia.org/wiki/Frashokereti) in Zoroastrianism
+- the world envisioned in the [Taipingjing](https://en.wikipedia.org/wiki/Taipingjing)
+- the world envisioned in [Utopia](https://en.wikipedia.org/wiki/Utopia_(book)) by Thomas More
+- a society solely consisting of individuals striving for
+	- Maslow's [self-actualization](https://en.wikipedia.org/wiki/Self-actualization) (through [metamotivation](https://en.wikipedia.org/wiki/Metamotivation))
+	- [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+	- [buddhahood or sammā-sambodhi](https://en.wikipedia.org/wiki/Buddhahood) in Buddhism (through [bodhicitta](https://en.wikipedia.org/wiki/Bodhicitta))
+	- [de](https://en.wikipedia.org/wiki/De_(Chinese)) in Taoism
+	- various notions of excellence, such as
+		- [arete](https://en.wikipedia.org/wiki/Arete) in the works of Aristotle
+		- [pāramitā](https://en.wikipedia.org/wiki/P%C4%81ramit%C4%81) in Buddhism
+# Henophilia
+## The term
+"Henophilia" is a newly constructed term which combines:
+- "heno-": prefix derived from Greek "hen-" (ἕν), meaning "one" or "unity"; in this context related to the One
+- "-philia": suffix derived from Greek "philos" (φίλος), meaning "loving" or "having a strong affinity for"
+
+Thus literally, "henophilia" means "One-love", implying both "loving the One" and "the One is love". It acknowledges that, because all world views are constructed, humankind can make a conscious choice on how it **wants** to construct a world view.
+
+Connecting the dots, henophilia is a world view consisting of:
+- **love** as the universal primordial striving
+- **wisdom** as the tenets
+- **flourishing** as the One
+
+Expressed as a single commitment: "**I strive for Flourishing**". Henophilia is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
+## Characterizing henophilia
+First, let's make some more observations:
+
+1. **subjectivity**: I recognize that pleasure can mean something different for every being.
+2. **reflection**: I recognize that my subjective Now and the Now of my environment mirror each other.
+3. **incompleteness**: I recognize that flourishing can never be ultimately reached, instead it always has a process and project character.
+
+Love, the primordial striving of henophilia, can be rephrased as **Building bridges of pleasure between reality and flourishing.** This means that next, we have the **bridge**, i.e. how the abstract, idealized, future-thinking, unachievable "goal" of flourishing is connected to subjective pleasure in the Now:
+
+- **orientation**: Making steps **towards** flourishing happens by realizing subjective pleasure, both in the Now and in an anticipatory way.
+
+Thus **the act** of this metaphorical bridge building is equivalent to "love". Finally, the **intentions** for becoming able to actually build these bridges of pleasure:
+
+1. **understanding the self**: I want to learn and understand what it means for me to experience pleasure.
+2. **understanding others**: I want to learn and understand what experiencing pleasure means for my environment.
+3. **realizing pleasure for the self**: I want to actively infuse every aspect of my own life with pleasure, both my thoughts and my behaviors. I see myself as the core creator and cultivator of my own pleasure.
+4. **realizing synergetic pleasure**: I want to discover and realize ways how interactions with my environment result in experiencing more pleasure on all sides.
+
+Most importantly, striving for synergetic pleasure means learning to find a balance between **acknowledging and cherishing** the subjective "I" (self-love) and also **transcending** it by becoming open to intertwining with love for the environment (other people, nature etc.). Concepts related to this balance include:
+- [golden mean](https://en.wikipedia.org/wiki/Golden_mean_(philosophy)) in various philosophies
+- [zhongyong](https://en.wikipedia.org/wiki/Doctrine_of_the_Mean) (doctrine of the mean) in Confucianism
+- [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) in Buddhism
+- [zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) in Taoism
+
+Using non-perfectionist step-by-step approaches is crucial to henophilia, especially because it always starts at the individual, but strives to unify humanity. As mentioned, it's about **building bridges** between reality and flourishing. This means to first acknowledge how the own mind and body as well as how larger, more complex systems in the world work and then sharing privileges and knowledge to allow every individual to stimulate tiny, but intentionally compounding, participatory changes.
+
+Currently, some people are only engaged in one of the extremes: either working primarily on the micro-level (e.g. personal development) or primarily on the macro level (e.g. attempting to find solutions to quickly fix large-scale crises such as wars, climate change etc.). Both of these are absolutely honorable – but it is necessary to acknowledge that the smallest level (flourishing on the individual level) and the largest level (flourishing on a societal or ecosystem level) are always intertwined. We thus need to focus on establishing initially small, but compounding, sustainable, replicable **steps towards** flourishing and resolving societal dichotomies instead of attempting to change everything at once. It's not just about **reacting** to problems to fix them, but it's about **creating** structures to prevent the core reason of these problems in the first place. As mentioned, the principal motivator in this is the primordial striving towards flourishing.
+
+Interfaith studies, i.e. studying the same concept expressed in many different belief systems and ideologies, are highly effective in getting to the fundamental essence of different pieces of wisdom. After all, a core part of henophilia is to make people who seem to be "against" each other in any way realize that they all fundamentally just want to live "good" lives. And then it's about seriously considering both views of such a "good" life and thinking out of the box to not only settle with a mere compromise, but instead discover genuine synergies. This can be applied to an individual (e.g. integrating opposing internal forces like traumas) and subsequently to growing groups of individuals.
+
+Henophilia is not a new belief system. Instead, through the deconstruction of belief systems in general, it aims to illustrate the shared essence of beliefs overall: **Making humans live better lives.** At the same time, it can be easily seen that the fundamental flaw of how many belief systems **actually** work today is that flourishing (= a **better** [world to come](https://en.wikipedia.org/wiki/World_to_come)) is primarily seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death. In practice, this is often instrumentalized for the centralization of power, for example religiously or politically, which is when beliefs with originally good intentions effectively become [opium of the people](https://en.wikipedia.org/wiki/Opium_of_the_people) (also see [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)). Of course having any kind of "spiritual leaders" in henophilia (i.e. anything beyond pragmatic leads in individual real-life projects) doesn't make sense.
+
+Instead, henophilia emanates **radical optimism**, the unshakable desire and willpower of every **individual** towards **creating** a future of flourishing, both in the immediate moment, over the course of an entire lifetime and for every time span in between. This primordial striving (inherent motivation) of the individual for henophilia and radical optimism is the single most important trait to learn and cultivate, because all collaborative projects are based on the attitudes of the participants. Henophilia is [autopoietic](https://en.wikipedia.org/wiki/Autopoiesis).
+
+Whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected, holistic flourishing by seeing both humans with each other, but also humans with nature as "ultimate collaborators" instead of "ultimate competitors" and, in the process, working on realizing synergetic pleasure, first individually and then collectively, in a constructive, pragmatic, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
+
+The starting point is **trust**. Trust, that you are not the only one committing to "I strive for flourishing". Then we start dreaming. And then building.
+
+> **Non coerceri maximo, contineri minimo, divinum est.**
+> **Not to be confined by the greatest, yet to be contained within the smallest, is divine.**
+> *– Friedrich Hölderlin, Hyperion*
+# This project
+henophilia.org is a possible starting point for **bringing together the bridge builders**, i.e. establishing structures for individuals to assist each other in each of the four intentions mentioned above.
+
+This means that in the entire domain of striving towards flourishing, henophilia.org specializes in **establishing pleasure-inducing positive feedback loops**, such as:
+- making the idea of Henophilia accessible and understandable by every human on earth
+- aggregating and distributing wisdom
+- contributing to building platforms which connect people and projects which aim to realize synergetic pleasure
+	- one core aspect of this will be projects that are interdisciplinary in every regard, especially for fundamental topics like cultivating self-love, a new death culture, new economic models etc.
+- openly sharing knowledge to allow people to learn how to build decentralized organizational structures (e.g. physical spaces, universal basic income, foundations etc.) to become able to actually dedicate their time to henophilia and to later share this privilege with more and more others
+- hosting events, building communities and eventually building societies and ecosystems oriented around henophilia
+# Co-creation
+Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Last update: 2024-07-14
