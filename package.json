@@ -1,6 +1,6 @@
 {
-  "name": "flowershow",
-  "version": "2.0.3",
+  "name": "@henophilia/henophilia.org",
+  "version": "1.0.0",
   "scripts": {
     "dev": "concurrently \"npm run mddb\" \"npm run generate && cross-env NODE_ENV=development next-remote-watch content\" ",
     "prebuild": "npm run generate",
