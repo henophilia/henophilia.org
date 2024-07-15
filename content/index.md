@@ -277,6 +277,4 @@ This means that in the entire domain of striving towards flourishing, henophilia
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-You will have discovered this page by actively researching, probably in a search engine, because I haven't actively announced this page anywhere else. And you have read this far because **something** kept your attention. If that also feels exciting to you, I would be especially honored if we can continue building henophilia through an email to synergies@henophilia.org.
-
 Last update: 2024-07-15
