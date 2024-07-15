@@ -175,7 +175,7 @@ In a similar fashion, "wisdom" can be defined as the **knowledge of ways** to **
 	- [brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara) in Buddhism
 	- [puruṣārtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) in Hinduism
 ## Flourishing
-Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of existence where **pleasure is the norm in all aspects of life for everyone**. 
+Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of existence where **pleasure in all its aspects (as mentioned above) is the norm in all areas of life for everyone**. 
 
 Some associated terms include:
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) in the bible
