@@ -1,4 +1,4 @@
-Imagine that you have just been born. Certain terms might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms ([tabula rasa](https://en.wikipedia.org/wiki/Tabula_rasa)) and engage in [bracketing](https://en.wikipedia.org/wiki/Bracketing_(phenomenology)).
+Imagine that you have just been born. Certain terms might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms ([tabula rasa](https://en.wikipedia.org/wiki/Tabula_rasa)) and engage in [bracketing](https://en.wikipedia.org/wiki/Bracketing_(phenomenology)) and [shoshin](https://en.wikipedia.org/wiki/Shoshin).
 # The One
 "The One" shall refer to the ultimate, transcendent principle which relates to unity and simplicity, beyond all multiplicity and distinctions. The One can be seen as "godly" in the sense of "The divine encompasses everything".
 
@@ -19,6 +19,7 @@ Terms for this concept in different frameworks include:
 - [tiamat](https://en.wikipedia.org/wiki/Tiamat) in Mesopotamian religion
 - [ginnungagap](https://en.wikipedia.org/wiki/Ginnungagap) in Nordic mythology
 - [Theory of Everything](https://en.wikipedia.org/wiki/Theory_of_everything) in physics
+- [actus purus](https://en.wikipedia.org/wiki/Actus_purus)
 - [unmoved mover](https://en.wikipedia.org/wiki/Unmoved_mover)
 
 The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) which aim to be universal are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete, see:
@@ -49,7 +50,7 @@ Terms related to this observation include:
 	- [yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
 - beliefs which attach a hierarchy to the separation
 	- [Sefirot](https://en.wikipedia.org/wiki/Sefirot) in Kabbalah
-	- [great chain of being](https://en.wikipedia.org/wiki/Great_chain_of_being) in Christianity ("god" is seen as on top of the chain, but also the creator of the chain itself)
+	- [great chain of being](https://en.wikipedia.org/wiki/Great_chain_of_being) in Christianity (note that "god" is seen as on top of the chain, but also the creator of the chain itself)
 	- [marāṭib al-wujūd](https://medium.com/@miainsel2/sufi-metaphysics-wujud-bc86e54f0176) in Sufism
 ## Constructing reality
 ### Subjectivity
@@ -68,35 +69,54 @@ Of course the One is not "achievable" and it's also not possible to be "closer" 
 
 A primordial striving shall be called **universal** when it is applicable to **every** aspect of an individual's experience of the world. Such a world view's core is **defined** by its primordial striving. Believing in a universal primordial striving brings **meaning** into the an individual's life.
 ### Tenets
-"Tenets" shall refer to the different rules, principles, guidelines, teachings etc. which humans attribute as authoritative for how to **practically** follow a certain primordial striving. Tenets aim to answer "Why this and not that?" and, for some types of tenets, even "This is how you shall live".  for every imaginable situation in an individual's life.
+"Tenets" shall refer to the different rules, principles, guidelines, teachings etc. which humans attribute as authoritative for how to **practically** follow a certain primordial striving. Tenets aim to answer "Why this and not that?" and, for some types of tenets, even "This is how you shall live" for every imaginable situation in an individual's life.
 
-Notions of "ethics" and "morality" in a certain world view are directly derived from that world view's tenets and thus from its primordial striving. This means that fundamentally there cannot be any "right" or "wrong" primordial striving, because the tenets associated with the primordial striving **themselves** define what is right or wrong.
+Notions of "ethics" and "morality" in a certain world view are directly derived from that world view's tenets and thus from its primordial striving. This means that fundamentally there cannot be any "right" or "wrong" primordial striving, because the tenets associated with the primordial striving **themselves** define what is morally right or wrong.
 
-For world views with a notion of [worship](https://en.wikipedia.org/wiki/Worship), the One is the **target** of worship, the primordial striving is **why** it is worshipped and tenets are **how** it is worshipped.
+For world views with a notion of [worship](https://en.wikipedia.org/wiki/Worship), the One is the **target** of worship, the primordial striving is **why** it is worshipped and tenets specify **how** it is worshipped.
 
 Examples include:
-- [dharma](https://en.wikipedia.org/wiki/Dharma) in Dharmic religions (with the striving towards a notion of the One like nirvana), with certain concrete rulesets, principles or practices that claim to make someone more aligned with dharma, such as
+- [dharma](https://en.wikipedia.org/wiki/Dharma) in Dharmic religions (with the striving towards a notion of the One like nirvana) with certain concrete rulesets, principles or practices that claim to make someone more aligned with dharma, such as
 	- the [Five Precepts](https://en.wikipedia.org/wiki/Five_precepts) and the [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path) in buddhism
 	- the principles explained in the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Message_of_the_Guru_Granth_Sahib) in Sikhism
 	- the [Manusmriti](https://en.wikipedia.org/wiki/Manusmriti) in Hinduism (including [varna](https://en.wikipedia.org/wiki/Varna_(Hinduism)), a foundation for the caste system)
 - [will of God](https://en.wikipedia.org/wiki/Will_of_God) in Abrahamic religions (expressed e.g. in the Torah, Bible and Qaran)
-	- include more concrete rulesets such as the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments)
+	- [canon law](https://en.wikipedia.org/wiki/Canon_law) in Christianity
+	- [halakha](https://en.wikipedia.org/wiki/Halakha) in Judaism
+	- [sharia](https://en.wikipedia.org/wiki/Sharia) in Islam
+	- more concrete rulesets such as the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments) or the [Seven Laws of Noah](https://en.wikipedia.org/wiki/Seven_Laws_of_Noah)
 	- interestingly, to reinforce the validity of its rules even further, Islam has the notion of [fitra](https://en.wikipedia.org/wiki/Fitra) to invalidate the idea that Islam is a **learnt** belief system constructed by humans like any other
 - [asha](https://en.wikipedia.org/wiki/Asha) in Zoroastrianism
 - [logos](https://en.wikipedia.org/wiki/Logos#Stoics) in Stoicism
+- [natural order](https://en.wikipedia.org/wiki/Natural_order_(philosophy)) in the context of natural law
 - [law](https://en.wikipedia.org/wiki/Law), especially in modern nation states, typically to strive for goals like maintaining order, promoting the "common good" etc.
 	- typically law is "less universal" than the other types of tenets mentioned above, because often it is [negative](https://en.wikipedia.org/wiki/Negative_and_positive_rights), i.e. it tells people what **not** to do
 	- in contrast, **rights** are formulated in a **positive** way (see e.g. [three generations of human rights](https://en.wikipedia.org/wiki/Three_generations_of_human_rights)), i.e. they say what people **should** do
-- different authoritative works in ideologies like capitalism, socialism, communism (e.g. "The Communist Manifesto"), liberalism, fascism, anarchism etc.
+	- in some states, there can be a significant overlap with [religious law](https://en.wikipedia.org/wiki/Religious_law)
+- different authoritative works in ideologies like capitalism, socialism, communism (e.g. "The Communist Manifesto"), liberalism, fascism (e.g. "Mein Kampf"), anarchism etc.
 - attempts to discover a primordial striving common to every human, in the context of philosophy and psychotherapy
 	- Nietzsche's [will to power](https://en.wikipedia.org/wiki/Will_to_power)
 	- Freud's [will to pleasure](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology))
 	- Frankl's [will to meaning](https://en.wikipedia.org/wiki/Logotherapy)
 	- Schopenhauer portraying existence as driven by a blind, insatiable will, leading to constant dissatisfaction (in [The World as Will and Representation](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation))
+### Primordial trust
+"Primordial trust" (German: Urvertrauen) shall refer to the deep-seated confidence in a specific primordial striving. It can be seen as trust by an individual in that their "compass" towards the One actually points **in the "right" direction**. Primordial trust is **the possibility of belief itself**.
+
+Related terms include:
+- [faith](https://en.wikipedia.org/wiki/Faith)
+- [divine command theory](https://en.wikipedia.org/wiki/Divine_command_theory)
+- [pistis](https://en.wikipedia.org/wiki/Pistis) in Christianity
+- [bitachon](https://www.ou.org/life/inspiration/difference-emunah-bitachon/) in Judaism
+- [tawakkul](https://en.wikipedia.org/wiki/Tawakkul) in Islam
+- [ziran](https://en.wikipedia.org/wiki/Ziran) in Daoism
+- [śraddhā](https://en.wikipedia.org/wiki/Faith_in_Hinduism) in Hinduism
+- [scientism](https://en.wikipedia.org/wiki/Scientism) referring to primordial trust in the scientific method
+
+Primordial trust is the most vulnerable core aspect of every belief system, because when this trust is somehow eroded or even invalidated, that constitutes the detachment from that respective belief system overall. One of the most obvious examples of this in Western societies, primarily directed towards the Christian god, is [Nietzsche's "god is dead"](https://en.wikipedia.org/wiki/God_is_dead).
 ## Pleasure
 "Pleasure" shall refer to the experience of **subjective well-being**. Colloquially, it can be interpreted as simply "feeling good".
 
-More concretely, this concept of pleasure can roughly be grouped into three aspects. Note that these aspects should not be seen as "stages" or a "sequence", but instead as parts which are all equally relevant without any specific order. They are closely linked to [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
+More concretely, this concept of pleasure can roughly be grouped into three aspects. Note that these aspects should not be seen as "stages" or a "sequence", but instead as parts which are all equally relevant without any specific order. They are closely related to [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
 ### Satisfaction
 "Satisfaction" shall refer to the **fulfillment of basic needs** in the **Now**, such as:
 - food, water, warmth, rest (surviving)
@@ -198,16 +218,17 @@ Some associated terms include:
 ## The term
 "Henophilia" is a newly constructed term which combines:
 - "heno-": prefix derived from Greek "hen-" (ἕν), meaning "one" or "unity"; in this context related to the One
-- "-philia": suffix derived from Greek "philos" (φίλος), meaning "loving" or "having a strong affinity for"
+- "-philia": suffix derived from Greek "philos" (φίλος), meaning "friend", "beloved" or "having a strong affinity for", denoting a close, affectionate relationship implying a deep sense of respect and love
 
 Thus literally, "henophilia" means "One-love", implying both "loving the One" and "the One is love". It acknowledges that, because all world views are constructed, humankind can make a conscious choice on how it **wants** to construct a world view.
 
 Connecting the dots, henophilia is a world view consisting of:
 - **love** as the universal primordial striving
 - **wisdom** as the tenets
+- primordial trust in **yourself**
 - **flourishing** as the One
 
-Expressed as a single commitment: "**I strive for Flourishing**". Henophilia is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
+Expressed as a single commitment: "**I strive for flourishing**". When meeting another henophile, it is represented by the sentiment of "**I know that you strive for flourishing and you know that I strive for flourishing**". Henophilia can be seen as the path towards the highest stage of Maslow's hierarchy of needs, "transcendence". It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
 ## Characterizing henophilia
 First, let's make some more observations:
 
@@ -231,18 +252,12 @@ Most importantly, striving for synergetic pleasure means learning to find a bala
 - [zhongyong](https://en.wikipedia.org/wiki/Doctrine_of_the_Mean) (doctrine of the mean) in Confucianism
 - [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) in Buddhism
 - [zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) in Taoism
-
-Using non-perfectionist step-by-step approaches is crucial to henophilia, especially because it always starts at the individual, but strives to unify humanity. As mentioned, it's about **building bridges** between reality and flourishing. This means to first acknowledge how the own mind and body as well as how larger, more complex systems in the world work and then sharing privileges and knowledge to allow every individual to stimulate tiny, but intentionally compounding, participatory changes.
-
-Currently, some people are only engaged in one of the extremes: either working primarily on the micro-level (e.g. personal development) or primarily on the macro level (e.g. attempting to find solutions to quickly fix large-scale crises such as wars, climate change etc.). Both of these are absolutely honorable – but it is necessary to acknowledge that the smallest level (flourishing on the individual level) and the largest level (flourishing on a societal or ecosystem level) are always intertwined. We thus need to focus on establishing initially small, but compounding, sustainable, replicable **steps towards** flourishing and resolving societal dichotomies instead of attempting to change everything at once. It's not just about **reacting** to problems to fix them, but it's about **creating** structures to prevent the core reason of these problems in the first place. As mentioned, the principal motivator in this is the primordial striving towards flourishing.
-
-Interfaith studies, i.e. studying the same concept expressed in many different belief systems and ideologies, are highly effective in getting to the fundamental essence of different pieces of wisdom. After all, a core part of henophilia is to make people who seem to be "against" each other in any way (see [amity-enmity complex](https://en.wikipedia.org/wiki/Amity%E2%80%93enmity_complex)) realize that they all fundamentally just want to live "good" lives. And then it's about seriously considering both views of such a "good" life and thinking out of the box to not only settle with a mere compromise, but instead discover genuine synergies. This can be applied to an individual (e.g. integrating opposing internal forces like traumas) and subsequently to growing groups of individuals.
 ## Death
 "Death" shall refer to a state where you permanently cease to experience your Now in the way similar to how you experience it while reading this text. Death can never be part of the Now. At least so far you won't remember having ever been actually dead for good, because when you are reading this, you are alive. For you in your current form, it's not possible to have anything more than **near**-death experiences. When you are thinking about your own death, it's always a **future** scenario. You will also never truly know whether you are immortal.
 
 At the same time, life itself can be seen as **the** ultimate temporary peak experience. No matter how long you will live, the **incompleteness** of flourishing will always motivate you to create new synergies in the world, as long as you continue to adopt flourishing as your primordial striving. By definition, the fact that life is **finite** is the greatest force for creation in life overall.
 
-The final moral edge case to consider is what can be called the "symmetrical trolley problem". It's similar to the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), but you are strapped to one track, a loved one is strapped to the other track, you can both control the lever and you can communicate for a limited time until the train arrives. Picture this: You are in a one-on-one situation with a person you genuinely love and who genuinely loves you. Both of you thus simply care about each other and thus want to realize pleasure for each other. But in this situation, a resource required for your survival (e.g. food) is so limited that it's only enough for one person to survive. So a choice must be made:
+The final moral edge case to consider is what can be called the "symmetrical trolley problem". It's similar to the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), but you are strapped to one track, a loved one is strapped to the other track, you can both control the lever and you can communicate for a limited time until the train arrives. Picture this: You are in a one-on-one situation with a person you genuinely love and who genuinely loves you. Both of you care about each other deeply and thus want to realize pleasure for each other. But in this situation, a resource required for your survival (e.g. food) is so limited that it's only enough for one person to survive. So a choice must be made:
 
 1. Either you both act egoistically, i.e. fight for the resource or steal it from each other. Survival of the strongest.
 2. Or you both act passively, i.e. you do nothing, or even altruistically, i.e. both of you continuously push the food away from yourself towards the other. But if you do that for too long, you will both starve.
@@ -251,15 +266,43 @@ So what do you do? There is no "right" option, considering that (in this constru
 
 The key is to be **open to discussion** with the goal of finding consent. After all, the least thing that you and the other person can do is to create a situation in which the survivor won't regret surviving. Maybe there are circumstances where one of the loved ones wants to gift their life to the other. So the loved ones can either die together, or they engage in  discussion to figure out a solution. Of course it's totally up to them according to which criteria they want to decide. No external "rules" would make sense here, because it should be a decision made entirely consensually only the participants.
 
-The core point is thus the **openness** to discussion itself. Most importantly, for both participants to go into this discussion knowing that "Assuming that we are both genuinely fine with such a decision, I would be open to giving up my life for you". This is the ultimate type of consent someone could give, where they become the judge over their own life, coming from a place of genuine love and care. Acting in this way, i.e. neither dogmatically keeping nor dogmatically rejecting your own life, but instead trying to find a synergy even here, can be seen as a type of [henosis](https://en.wikipedia.org/wiki/Henosis), the boundary between the One that's conceivably by human thought and the One that cannot be thought of anymore.
+The core point is thus the **openness** to discussion itself. Most importantly, for both participants to go into this discussion knowing that "Assuming that we are both genuinely fine with such a decision, I would be open to giving up my life for you". This is the ultimate type of consent someone could give, where they become the judge over their own life, coming from a place of genuine love and care. Acting in this way, i.e. neither dogmatically keeping nor dogmatically rejecting your own life, but instead trying to find a synergy even here, can be seen as a type of [henosis](https://en.wikipedia.org/wiki/Henosis), the boundary between the One that's conceivable by human thought and the One that cannot be thought of anymore.
+## Considerations
+From the ideas stated so far, what are the similarities and differences between henophilia and other world views?
+
+First and foremost, henophilia always implies [religious pluralism](https://en.wikipedia.org/wiki/Religious_pluralism) in the sense of the deep conviction of pantheism and non-dualism, namely "there is **not only one truth**". [Religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism), i.e. the belief that there is only "one true faith", "one true set of tenets" or eventually "one true god" etc. must be overcome.
+
+Importantly, despite this stance, henophilia is not "against" religious exclusivists in the sense of seeing them as enemies to be "fought against" in any way. No [idée fixe](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology)) should be used to justify destructive conflict. Instead, many such outbursts of violence in any form, especially based on spiritual, political or religious grounds, can be seen as either trauma responses or learned behavior. To heal, both require compassion and empathy from those that don't see religious exclusivism as a threat anymore.
+
+Henophilia encourages those for whom "god is dead" (atheists) to not equate this sentiment with the rejection of all practices which are normally considered religious or spiritual. After all, while some of the current world views have many issues (e.g. wars, power centralization, control, dogmatism, intolerance, manipulation), they can also have positive effects on people's lives (e.g. community, belonging, ethical guidance, hope, routines, support in grief). The aim is to iteratively develop new and adjust existing societal structures and tenets through strategic, consensual, wisdom-based tweaks which **foster the psychologically positive effects of beliefs** and **discontinue the propagation of their negative effects**. Through the One, all beliefs, religions, philosophies, world views etc. can be seen and can see themselves as striving to **unify** humanity with itself and with nature instead of dividing it further. Henophilia is thus also related to [eclecticism](https://en.wikipedia.org/wiki/Eclecticism) and [syncretism](https://en.wikipedia.org/wiki/Syncretism).
+
+Henophilia cannot have "leaders", "prophets" or any other people making statements which would have more "authority" than others or which would even claim to be legitimized by any external divinity, as divinity is not seen as external anyway. The path towards flourishing (striving towards love, trusting in the self) is always individual, and in combination with the ability to conceive a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind), it can spread [autopoietically](https://en.wikipedia.org/wiki/Autopoiesis). Of course there can be more concrete groups of individuals where a certain hierarchy and distribution of roles might simply be useful, trust-enhancing and productive. But henophilia overall is decentralized and without large-scale power hierarchies by definition.
+
+Henophilia strives to stimulate the creation of [morally universalist](https://en.wikipedia.org/wiki/Moral_universalism) tenets. After for a long time, some belief and value systems have developed to be morally incompatible with each other, henophilia motivates the **radical, limitless willingness and openness** to overcome these sometimes deeply engrained dichotomies and instead transition to a dialogue akin to "I find something to be morally right. You find the same thing to be morally wrong. So how can we understand each other and subsequently expand our view of morality to unify our counterpositions?".
+
+Henophilia does not aim to give answers to questions like "What happens after death?", "Why do we exist?" etc. Instead, it has more fundamental duties:
+1. It expresses the sentiment that **there is space** for an individual to answer these questions in whichever way they prefer.
+2. And, even more importantly, it encourages individuals to **build** exactly these spaces and an overall environment of stable satisfaction, so that one way of how these spaces could be used would be to even become able to calmly think about and discuss such questions in the first place.
+
+Henophilia is highly **pragmatic**. Even though it motivates to strive for the abstract, utopic state of flourishing, it aims to do this in a **constructive** way instead of invoking feelings of being paralyzed by the vastness of this endeavor. It advocates for acting in a way according to one's [conscience](https://en.wikipedia.org/wiki/Conscience), guided by the wisdom acquired so far. This will always be imperfect, but due to the effortless accumulation and distribution of wisdom enabled by clear communication as well as digital technologies, subjectively obvious mistakes should only be made once and do not need to be repeated, while keeping the space for experimentation.
+
+This means that henophilia highlights the **desire to act**. After all, love barely matters if you don't show it to yourself as well as to your environment, i.e. the people and nature around you.
+
+Using non-perfectionist step-by-step approaches is crucial to henophilia, especially because it always starts at the individual, but strives to unify humanity. As mentioned, it's about **building bridges** between reality and flourishing. This means to first acknowledge how the own mind and body as well as how larger, more complex systems in the world work and then sharing privileges and knowledge to allow every individual to stimulate tiny, but intentionally compounding, participatory changes.
+
+Currently, some people are only engaged in one of the extremes: either working primarily on the micro-level (e.g. personal development) or primarily on the macro level (e.g. attempting to find solutions to quickly fix large-scale crises such as wars, climate change etc.). Both of these are absolutely honorable – but it is necessary to acknowledge that the smallest level (flourishing on the individual level) and the largest level (flourishing on a societal or ecosystem level) are always intertwined. We thus need to focus on establishing initially small, but compounding, sustainable, replicable **steps towards** flourishing and resolving societal dichotomies instead of attempting to change everything at once. It's not just about **reacting** to problems to fix them, but it's about **creating structures** and **healing trauma** to prevent the core reason of these problems in the first place.
+
+Interfaith studies, i.e. studying the same concept expressed in many different belief systems and ideologies, are highly effective in getting to the fundamental essence of different pieces of wisdom. After all, a core part of henophilia is to make people who seem to be "against" each other in any way (see [amity-enmity complex](https://en.wikipedia.org/wiki/Amity%E2%80%93enmity_complex)) realize that they all fundamentally just want to live "good" lives. And then it's about seriously considering both views of such a "good" life and thinking out of the box to not only settle with a mere compromise, but instead discover genuine synergies. This can be applied to an individual (e.g. integrating opposing internal forces like traumas) and subsequently to growing groups of individuals (e.g. integrating moral differences).
+
+The concept of henophilia has implications even for the choice of the word "henophilia" for this movement itself. Of course that word is completely arbitrary. Everyone can make up different words for what is called "henophilia" in this text (that term was only chosen to be able to talk **about** the concept at all, but it never claims any authority), everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
+
+Henophilia emanates **radical optimism**, the unshakable desire and willpower of every **individual** towards **creating** a future of flourishing, both in the immediate moment, over the course of an entire lifetime and for every time span in between. Especially when an individual starts feeling hopeless or confused on their way towards flourishing, that indicates a strong emotional need for care, encouragement, empowerment and mutual uplifting, which must always be upheld globally. This inherent motivation for henophilia and radical optimism, both individually and collectively, is one of the most important traits to learn and cultivate, because all collaborative projects are based on the attitudes of the participants.
 ## Summary
-Henophilia is not a new belief system. Instead, through the deconstruction of belief systems in general, it aims to illustrate the shared essence of beliefs overall: **Making humans live better lives.** At the same time, it can be easily seen that the fundamental flaw of how many belief systems **actually** work today is that flourishing (= a **better** [world to come](https://en.wikipedia.org/wiki/World_to_come)) is primarily seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death. In practice, this is often instrumentalized for the centralization of power, for example religiously or politically, which is when beliefs with originally good intentions effectively become [opium of the people](https://en.wikipedia.org/wiki/Opium_of_the_people) (also see [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)). Of course having any kind of "spiritual leaders" in henophilia (i.e. anything beyond pragmatic leads in individual real-life projects) doesn't make sense.
+Henophilia is not a new belief system. Instead, through the deconstruction of belief systems in general, it aims to illustrate the shared essence of beliefs overall: **Making humans live better lives.** At the same time, it can be easily seen that the fundamental flaw of how many belief systems **actually** work today is that flourishing (= a **better** [world to come](https://en.wikipedia.org/wiki/World_to_come)) is primarily seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death. In practice, this is often instrumentalized for the centralization of power, for example religiously or politically, which is when beliefs with originally good intentions effectively become [opium of the people](https://en.wikipedia.org/wiki/Opium_of_the_people) (also see [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)).
 
-Instead, henophilia emanates **radical optimism**, the unshakable desire and willpower of every **individual** towards **creating** a future of flourishing, both in the immediate moment, over the course of an entire lifetime and for every time span in between. This primordial striving (inherent motivation) of the individual for henophilia and radical optimism is the single most important trait to learn and cultivate, because all collaborative projects are based on the attitudes of the participants. Henophilia is [autopoietic](https://en.wikipedia.org/wiki/Autopoiesis).
+But whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected, holistic flourishing by seeing both you with yourself, humans with each other, but also humans with nature as "ultimate collaborators" instead of "ultimate competitors" and, in the process, working on realizing synergetic pleasure, first individually and then collectively, in a constructive, pragmatic, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
 
-Whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected, holistic flourishing by seeing both humans with each other, but also humans with nature as "ultimate collaborators" instead of "ultimate competitors" and, in the process, working on realizing synergetic pleasure, first individually and then collectively, in a constructive, pragmatic, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
-
-The starting point is **trust**. Trust, that you are not the only one committing to "I strive for flourishing". Then we start dreaming. And then building.
+The starting point is **trust**. Firstly the primordial trust in yourself, and then trust in that you are not the only one committing to "I strive for flourishing". Then we start dreaming. And then building.
 
 > **Non coerceri maximo, contineri minimo, divinum est.**
 > **Not to be confined by the greatest, yet to be contained within the smallest, is divine.**
@@ -269,12 +312,12 @@ henophilia.org is a possible starting point for **bringing together the bridge b
 
 This means that in the entire domain of striving towards flourishing, henophilia.org specializes in **establishing pleasure-inducing positive feedback loops**, such as:
 - making the idea of Henophilia accessible and understandable by every human on earth
-- aggregating and distributing wisdom
+- aggregating and distributing wisdom, always respecting the source and context of that wisdom
 - contributing to building platforms which connect people and projects which aim to realize synergetic pleasure
-	- one core aspect of this will be projects that are interdisciplinary in every regard, especially for fundamental topics like cultivating self-love, a new death culture, new economic models etc.
+	- one core aspect of this will be projects that are interdisciplinary and interfaith in every regard, e.g. for fundamental topics like cultivating self-love, establishing a new death culture, peacemaking initiatives, new economic models (e.g. for communities), exploring the potential of interdisciplinary science
 - openly sharing knowledge to allow people to learn how to build decentralized organizational structures (e.g. physical spaces, universal basic income, foundations etc.) to become able to actually dedicate their time to henophilia and to later share this privilege with more and more others
 - hosting events, building communities and eventually building societies and ecosystems oriented around henophilia
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-07-15
+Last update: 2024-08-01
