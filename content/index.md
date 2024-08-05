@@ -56,7 +56,7 @@ Terms related to this observation include:
 ### Subjectivity
 "Subjectivity" shall refer to the observation that within the ubiquitous system emanating from the One, "you" are just one of the parts. It refers to a certain level of **separation** you perceive between what you call "I", "ego", "self" etc. and your "**environment**", resulting in self-awareness.
 ### Now
-"Now" shall refer to your subjective experience of what is "real" in this exact moment. This implies a certain **separation** between **reality** and **imagination**. The Now can include aspects such as:
+"Now" shall refer to your subjective experience of what is "real" in this exact moment, i.e. everything that's [egosyntonic](https://en.wikipedia.org/wiki/Egosyntonic_and_egodystonic) for you. This implies a certain **separation** between **reality** and **imagination**. The Now can include aspects such as:
 - how your body feels right now
 - which emotions you currently feel
 - what your cognitive focus is currently directed towards
@@ -122,32 +122,6 @@ More concretely, this concept of pleasure can roughly be grouped into three aspe
 - food, water, warmth, rest (surviving)
 - physical or emotional safety (feeling safe)
 - trust, sexuality, belonging, self-confidence and freedom (feeling like your presence is appreciated and that you are trusted and loved, both by yourself and by others)
-### Peak experiences
-"Peak experiences" refer to **experiences in which a subset of the aspects of satisfaction is strongly emphasized temporarily**. Note that the temporary nature is what makes them pleasurable, i.e. living an entire life in only a single peak experience would typically not be sustainable or feasible in the long term.
-
-This is yet another term from Maslow, who described [peak experiences](https://en.wikipedia.org/wiki/Peak_experience) as "rare, exciting, oceanic, deeply moving, exhilarating, elevating experiences that generate an advanced form of perceiving reality, and are even mystic and magical in their effect upon the experimenter."
-
-In practice, peak experiences can come in varying intensities. Some examples include:
-- a deep meditative session
-- creative flow while creating art (e.g. writing, composing, painting etc.)
-- being in a deep conversation with someone where you don't even notice time flying
-- being at an event where you have many experiences which feel incredibly meaningful, pleasurable and inspirational to you (e.g. a burn)
-- the mystical experience of an intense, but highly insightful trip on psychedelics
-- a highly pleasurable sexual or sensual session (e.g. tantra, amazing orgasms, [subspace](https://en.wikipedia.org/wiki/Glossary_of_BDSM#Subspace) and topspace in BDSM etc.)
-- dancing all night long to music you love and getting lost in the music (e.g. at a rave)
-- feeling a rush of gratitude for someone's genuine presence in a vulnerable moment
-- awe-inspiring natural encounters (e.g. watching a sunrise from a mountaintop after a long hike)
-- religious celebrations for respective believers such as [Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur), [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr), [Christmas](https://en.wikipedia.org/wiki/Christmas), [Vesak](https://en.wikipedia.org/wiki/Vesak), [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) and many more (pretty much all cultures have institutionalized peak experiences)
-
-Some associated terms include:
-- euphoria (Euphorie)
-- ecstasy (Ekstase)
-- bliss (Glückseligkeit)
-- rapture (Entzücken)
-- elation (Beschwingtheit)
-- [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) in the works of Csikszentmihalyi
-- [dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Buddhism) in buddhism
-- [samprajñata samādhi](https://en.wikipedia.org/wiki/Samadhi#Sam%C4%81dhi_in_the_Yoga_S%C5%ABtras) in hinduism
 ### Stable satisfaction
 "Stable satisfaction" shall refer to a state of mind where satisfaction is something you perceive as **stable**, i.e. where your Now includes the emotion that you are not seriously afraid of re-entering a status where satisfaction not fulfillable.
 
@@ -177,6 +151,32 @@ Some associated terms for stable satisfaction include (both English and German):
 - cultivating [brahmavihārā](https://en.wikipedia.org/wiki/Brahmavihara) in buddhism
 - [kama](https://en.wikipedia.org/wiki/Kama) in Dharmic religions
 - [ikigai](https://en.wikipedia.org/wiki/Ikigai)
+### Peak experiences
+"Peak experiences" refer to **experiences in which a subset of the aspects of satisfaction is strongly emphasized temporarily**. Note that the temporary nature is what makes them pleasurable, i.e. living an entire life in only a single peak experience would typically not be sustainable or feasible in the long term.
+
+This is yet another term from Maslow, who described [peak experiences](https://en.wikipedia.org/wiki/Peak_experience) as "rare, exciting, oceanic, deeply moving, exhilarating, elevating experiences that generate an advanced form of perceiving reality, and are even mystic and magical in their effect upon the experimenter."
+
+In practice, peak experiences can come in varying intensities. Some examples include:
+- a deep meditative session
+- creative flow while creating art (e.g. writing, composing, painting etc.)
+- being in a deep conversation with someone where you don't even notice time flying
+- being at an event where you have many experiences which feel incredibly meaningful, pleasurable and inspirational to you (e.g. a burn)
+- the mystical experience of an intense, but highly insightful trip on psychedelics
+- a highly pleasurable sexual or sensual session (e.g. tantra, amazing orgasms, [subspace](https://en.wikipedia.org/wiki/Glossary_of_BDSM#Subspace) and topspace in BDSM etc.)
+- dancing all night long to music you love and getting lost in the music (e.g. at a rave)
+- feeling a rush of gratitude for someone's genuine presence in a vulnerable moment
+- awe-inspiring natural encounters (e.g. watching a sunrise from a mountaintop after a long hike)
+- religious celebrations for respective believers such as [Yom Kippur](https://en.wikipedia.org/wiki/Yom_Kippur), [Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr), [Christmas](https://en.wikipedia.org/wiki/Christmas), [Vesak](https://en.wikipedia.org/wiki/Vesak), [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) and many more (pretty much all cultures have institutionalized peak experiences)
+
+Some associated terms include:
+- euphoria (Euphorie)
+- ecstasy (Ekstase)
+- bliss (Glückseligkeit)
+- rapture (Entzücken)
+- elation (Beschwingtheit)
+- [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) in the works of Csikszentmihalyi
+- [dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Buddhism) in buddhism
+- [samprajñata samādhi](https://en.wikipedia.org/wiki/Samadhi#Sam%C4%81dhi_in_the_Yoga_S%C5%ABtras) in hinduism
 ## Love
 With the previous definition of pleasure, "love" can be defined as the **desire** to **bring pleasure into the Now**. It can be directed towards anything – the self, another being, nature or anything in between. Some associated terms include:
 - good will
@@ -267,7 +267,7 @@ So what do you do? There is no "right" option, considering that (in this constru
 The key is to be **open to discussion** with the goal of finding consent. After all, the least thing that you and the other person can do is to create a situation in which the survivor won't regret surviving. Maybe there are circumstances where one of the loved ones wants to gift their life to the other. So the loved ones can either die together, or they engage in  discussion to figure out a solution. Of course it's totally up to them according to which criteria they want to decide. No external "rules" would make sense here, because it should be a decision made entirely consensually only the participants.
 
 The core point is thus the **openness** to discussion itself. Most importantly, for both participants to go into this discussion knowing that "Assuming that we are both genuinely fine with such a decision, I would be open to giving up my life for you". This is the ultimate type of consent someone could give, where they become the judge over their own life, coming from a place of genuine love and care. Acting in this way, i.e. neither dogmatically keeping nor dogmatically rejecting your own life, but instead trying to find a synergy even here, can be seen as a type of [henosis](https://en.wikipedia.org/wiki/Henosis), the boundary between the One that's conceivable by human thought and the One that cannot be thought of anymore.
-## Considerations
+## Implications
 From the ideas stated so far, what are the similarities and differences between henophilia and other world views?
 
 First and foremost, henophilia always implies [religious pluralism](https://en.wikipedia.org/wiki/Religious_pluralism) in the sense of the deep conviction of pantheism and non-dualism, namely "there is **not only one truth**". [Religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism), i.e. the belief that there is only "one true faith", "one true set of tenets" or eventually "one true god" etc. must be overcome.
@@ -277,6 +277,8 @@ Importantly, despite this stance, henophilia is not "against" religious exclusiv
 Henophilia encourages those for whom "god is dead" (atheists) to not equate this sentiment with the rejection of all practices which are normally considered religious or spiritual. After all, while some of the current world views have many issues (e.g. wars, power centralization, control, dogmatism, intolerance, manipulation), they can also have positive effects on people's lives (e.g. community, belonging, ethical guidance, hope, routines, support in grief). The aim is to iteratively develop new and adjust existing societal structures and tenets through strategic, consensual, wisdom-based tweaks which **foster the psychologically positive effects of beliefs** and **discontinue the propagation of their negative effects**. Through the One, all beliefs, religions, philosophies, world views etc. can be seen and can see themselves as striving to **unify** humanity with itself and with nature instead of dividing it further. Henophilia is thus also related to [eclecticism](https://en.wikipedia.org/wiki/Eclecticism) and [syncretism](https://en.wikipedia.org/wiki/Syncretism).
 
 Henophilia cannot have "leaders", "prophets" or any other people making statements which would have more "authority" than others or which would even claim to be legitimized by any external divinity, as divinity is not seen as external anyway. The path towards flourishing (striving towards love, trusting in the self) is always individual, and in combination with the ability to conceive a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind), it can spread [autopoietically](https://en.wikipedia.org/wiki/Autopoiesis). Of course there can be more concrete groups of individuals where a certain hierarchy and distribution of roles might simply be useful, trust-enhancing and productive. But henophilia overall is decentralized and without large-scale power hierarchies by definition.
+
+Henophilia is fundamentally [humanist](https://en.wikipedia.org/wiki/Humanism), but not in an [anthropocentric](https://en.wikipedia.org/wiki/Anthropocentrism) sense, but instead embracing the unity of humanity and the nature it lives in. A closely related term is [ecohumanism](https://ecohumanism.co.uk/joe/ecohumanism).
 
 Henophilia strives to stimulate the creation of [morally universalist](https://en.wikipedia.org/wiki/Moral_universalism) tenets. After for a long time, some belief and value systems have developed to be morally incompatible with each other, henophilia motivates the **radical, limitless willingness and openness** to overcome these sometimes deeply engrained dichotomies and instead transition to a dialogue akin to "I find something to be morally right. You find the same thing to be morally wrong. So how can we understand each other and subsequently expand our view of morality to unify our counterpositions?".
 
@@ -298,7 +300,7 @@ The concept of henophilia has implications even for the choice of the word "heno
 
 Henophilia emanates **radical optimism**, the unshakable desire and willpower of every **individual** towards **creating** a future of flourishing, both in the immediate moment, over the course of an entire lifetime and for every time span in between. Especially when an individual starts feeling hopeless or confused on their way towards flourishing, that indicates a strong emotional need for care, encouragement, empowerment and mutual uplifting, which must always be upheld globally. This inherent motivation for henophilia and radical optimism, both individually and collectively, is one of the most important traits to learn and cultivate, because all collaborative projects are based on the attitudes of the participants.
 ## Summary
-Henophilia is not a new belief system. Instead, through the deconstruction of belief systems in general, it aims to illustrate the shared essence of beliefs overall: **Making humans live better lives.** At the same time, it can be easily seen that the fundamental flaw of how many belief systems **actually** work today is that flourishing (= a **better** [world to come](https://en.wikipedia.org/wiki/World_to_come)) is primarily seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death. In practice, this is often instrumentalized for the centralization of power, for example religiously or politically, which is when beliefs with originally good intentions effectively become [opium of the people](https://en.wikipedia.org/wiki/Opium_of_the_people) (also see [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)).
+Henophilia is not a new belief system. Instead, through the deconstruction of belief systems in general, it aims to illustrate the shared essence of beliefs overall: **Making humans live better lives.** At the same time, it can be easily seen that the fundamental flaw of how many belief systems **actually** work today is that flourishing (= a **better** [world to come](https://en.wikipedia.org/wiki/World_to_come)) is primarily seen as something abstract, mythological, metaphysical, non-empirical, hard to understand, even harder to achieve, sometimes even forbidden to think about and often as something which is seen as created externally (e.g. by gods) and/or which is only accessible after death. In practice, especially when combined with the belief that only one single ideology is "true" (exclusivism), this is often instrumentalized for the centralization of power, for example religiously or politically, which is when beliefs with originally good intentions effectively become [opium of the people](https://en.wikipedia.org/wiki/Opium_of_the_people) (also see [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)).
 
 But whether it's with yourself, with nature, in a one-on-one friendship, a small community, an entire society or an entire ecosystem: When having a shared compass which points towards genuine, reflected, holistic flourishing by seeing both you with yourself, humans with each other, but also humans with nature as "ultimate collaborators" instead of "ultimate competitors" and, in the process, working on realizing synergetic pleasure, first individually and then collectively, in a constructive, pragmatic, non-perfectionist, self-directed, decentralized, collaborative, strategic, step-by-step manner, "heaven on earth" can start feeling more and more achievable.
 
@@ -311,13 +313,13 @@ The starting point is **trust**. Firstly the primordial trust in yourself, and t
 henophilia.org is a possible starting point for **bringing together the bridge builders**, i.e. establishing structures for individuals to assist each other in each of the four intentions mentioned above.
 
 This means that in the entire domain of striving towards flourishing, henophilia.org specializes in **establishing pleasure-inducing positive feedback loops**, such as:
-- making the idea of Henophilia accessible and understandable by every human on earth
+- making the idea of henophilia accessible and understandable by every human on earth
 - aggregating and distributing wisdom, always respecting the source and context of that wisdom
 - contributing to building platforms which connect people and projects which aim to realize synergetic pleasure
 	- one core aspect of this will be projects that are interdisciplinary and interfaith in every regard, e.g. for fundamental topics like cultivating self-love, establishing a new death culture, peacemaking initiatives, new economic models (e.g. for communities), exploring the potential of interdisciplinary science
 - openly sharing knowledge to allow people to learn how to build decentralized organizational structures (e.g. physical spaces, universal basic income, foundations etc.) to become able to actually dedicate their time to henophilia and to later share this privilege with more and more others
-- hosting events, building communities and eventually building societies and ecosystems oriented around henophilia
+- hosting events, building communities and eventually building societies and ecosystems oriented around the concept of henophilia
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-08-01
+Last update: 2024-08-05
