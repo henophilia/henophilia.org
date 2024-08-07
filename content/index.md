@@ -13,7 +13,7 @@ Terms for this concept in different frameworks include:
 - [God](https://en.wikipedia.org/wiki/God)
 - [Ein Sof](https://en.wikipedia.org/wiki/Ein_Sof) in Kabbalah
 - [wujūd](https://en.wikipedia.org/wiki/Wujud) in Sufism
-- [tawhid](https://en.wikipedia.org/wiki/Tawhid) in Islam
+- [tawhid](https://en.wikipedia.org/wiki/Tawhid) and [al-aḥad](https://en.wikipedia.org/wiki/Al-A%E1%B8%A5ad) in Islam
 - [waheguru](https://en.wikipedia.org/wiki/Waheguru) in Sikhism
 - [teotl](https://en.wikipedia.org/wiki/Teotl) in Aztec frameworks
 - [chaos](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Greco-Roman_tradition) in Greco-Roman tradition
@@ -60,7 +60,7 @@ Terms related to this observation include:
 	- [marāṭib al-wujūd](https://medium.com/@miainsel2/sufi-metaphysics-wujud-bc86e54f0176) in Sufism
 ## Constructing reality
 ### Subjectivity
-"Subjectivity" shall refer to the observation that within the ubiquitous system emanating from the One, "you" are just one of the parts. It refers to a certain level of **separation** you perceive between what you call "I", "ego", "self" etc. and your "**environment**", resulting in self-awareness.
+"Subjectivity" shall refer to the observation that within the ubiquitous system emanating from the One, "you" are just one of the parts. It refers to a certain level of **separation** you perceive between what you call "I", "ego", "self" etc. and your "**environment**".
 ### Now
 "Now" shall refer to your subjective experience of what is "real" in this exact moment, i.e. your [self-concept](https://en.wikipedia.org/wiki/Self-concept) experiencing [consciousness](https://en.wikipedia.org/wiki/Consciousness). This implies a certain **separation** between "Who am I?" and "Who am I not?".
 
@@ -71,9 +71,7 @@ The Now can include aspects such as:
 - the thoughts you are having right now (e.g. these words, thinking about other things, people or locations, the past, the future, memories, ideas, plans, dreams etc.)
 - the feeling that time is passing, that you know whether one event was "before" or "after" another ([temporality](https://en.wikipedia.org/wiki/Temporality)) and, most importantly, that you are aware that your current Now can influence your future Now ([prospective memory](https://en.wikipedia.org/wiki/Prospective_memory))
 ### Primordial striving
-"Primordial striving" (German: Urwille or Urstreben) shall refer to a fundamental inherent, intrinsic will, drive, motivation or urge directed towards divinity. From the human perspective, it can be seen as the single **compass** "towards" the One. 
-
-Of course the One is not "achievable" and it's also not possible to be "closer" or "further away" from the One, because it's neither a location nor a state of mind nor anything else "specific". This means that effectively, every primordial striving is fundamentally **constructed by humans**.
+"Primordial striving" (German: Urwille or Urstreben) shall refer to an individual's fundamental inherent, intrinsic will, drive, motivation or urge. From the human perspective, it can be seen as the single **compass** "towards" the One. 
 
 Related terms include:
 - [diligence](https://en.wikipedia.org/wiki/Diligence) (and its opposite [acedia](https://en.wikipedia.org/wiki/Acedia))
@@ -84,27 +82,46 @@ Related terms include:
 - [kavanah](https://en.wikipedia.org/wiki/Kavanah) in Judaism
 - [asceticism](https://en.wikipedia.org/wiki/Asceticism)
 
-A primordial striving shall be called **universal** when it is applicable to **every** aspect of an individual's experience of the world. Such a world view's core is **defined** by its primordial striving. Terms related to an overly enthusiastic, uncritical primordial striving include [fanaticism](https://en.wikipedia.org/wiki/Fanaticism) and [zeal](https://en.wiktionary.org/wiki/zeal).
+Terms related to an overly enthusiastic, uncritical primordial striving include [fanaticism](https://en.wikipedia.org/wiki/Fanaticism) and [zeal](https://en.wiktionary.org/wiki/zeal).
+
+Additionally, some beliefs have a notion of concepts which bring humans **further away** from the One, and which are "fixed" through that respective belief, such as:
+- fundamental predispositions of human nature, especially in Abrahamic religions
+	- [original sin](https://en.wikipedia.org/wiki/Original_sin) in Christianity
+	- [an-nafs al-ʾammārah](https://en.wikipedia.org/wiki/Nafs#The_inciting_nafs_(an-nafs_al-%CA%BEamm%C4%81rah)) in Sufism
+	- [Yetzer hara](https://en.wikipedia.org/wiki/Yetzer_hara) in Judaism
+- [kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)) in Buddhism
+### Primordial trust
+"Primordial trust" (German: Urvertrauen) shall refer to the deep-seated confidence of an individual in a specific primordial striving. It can be seen as trust by an individual in that their "compass" towards the One actually points **in the "right" direction**. Primordial trust is **the possibility of belief itself**.
+
+Related terms include:
+- [faith](https://en.wikipedia.org/wiki/Faith)
+- [divine command theory](https://en.wikipedia.org/wiki/Divine_command_theory)
+- [pistis](https://en.wikipedia.org/wiki/Pistis) in Christianity
+- [bitachon](https://www.ou.org/life/inspiration/difference-emunah-bitachon/) in Judaism
+- [tawakkul](https://en.wikipedia.org/wiki/Tawakkul) in Islam
+	- to reinforce the trust in itself even further, Islam also has the notion of [fitra](https://en.wikipedia.org/wiki/Fitra), through which some see Islam as superior, especially over the other Abrahamic religions
+- [ziran](https://en.wikipedia.org/wiki/Ziran) in Daoism
+- [śraddhā](https://en.wikipedia.org/wiki/Faith_in_Hinduism) in Hinduism
+- [scientism](https://en.wikipedia.org/wiki/Scientism) referring to primordial trust in the scientific method
+
+Primordial trust is the most vulnerable core aspect of every belief system, because when this trust is somehow eroded or even invalidated, that constitutes the detachment from that respective belief system overall. One of the most obvious examples of this in Western societies, primarily directed towards the Christian god, is [Nietzsche's "god is dead"](https://en.wikipedia.org/wiki/God_is_dead).
 ### Tenets
-"Tenets" shall refer to the different rules, principles, guidelines, teachings etc. which humans attribute as authoritative for how to **practically** follow a certain primordial striving. Tenets aim to answer "Why this and not that?" and, for some types of tenets, even "This is how you shall live" for every imaginable situation in an individual's life.
+"Tenets" shall refer to the different rules, laws, principles, values, guidelines, teachings etc. which an **individual** attributes as authoritative for how to **practically** follow a certain primordial striving. Tenets aim to answer "Why this and not that?" and, for some types of tenets, even "This is how I want to live" for every imaginable situation in an individual's life. Such tenets, which are applicable to **every** aspect of an individual's experience of the world, shall be called **universal**. Tenets are an individual's [moral compass](https://en.wiktionary.org/wiki/moral_compass).
 
-Notions of "ethics" and "morality" in a certain world view are directly derived from that world view's tenets and thus from its primordial striving. This means that fundamentally there cannot be any "right" or "wrong" primordial striving, because the tenets associated with the primordial striving **themselves** define what is morally right or wrong.
+Of course the One is not "achievable" and it's also not possible to be "closer" or "further away" from the One, because it's neither a location nor a state of mind nor anything else "specific". This means that fundamentally, all tenets are **constructed by humans**. For world views with a notion of [worship](https://en.wikipedia.org/wiki/Worship), the One is the **target** of worship, the primordial striving is **why** it is worshipped and tenets specify **how** it is worshipped.
 
-World views typically have a notion of seeing the act of following the tenets associated with their world view's primordial striving (see below) as [virtuous](https://en.wikipedia.org/wiki/Virtue) (desirable) and, consequently, the opposite as [sinful](https://en.wikipedia.org/wiki/Sin) or even [evil](https://en.wikipedia.org/wiki/Evil) (undesirable).
-
-For world views with a notion of [worship](https://en.wikipedia.org/wiki/Worship), the One is the **target** of worship, the primordial striving is **why** it is worshipped and tenets specify **how** it is worshipped.
+Notions of "ethics" and "morality" in a certain world view are directly derived from that world view's tenets. This means that fundamentally there cannot be any "right" or "wrong" primordial striving, because the tenets associated with the primordial striving **themselves** define what is morally right or wrong. On the level of sociology, i.e. when individuals interact with each other, tenets are thus closely related to [social control](https://en.wikipedia.org/wiki/Social_control).
 
 Examples include:
 - [dharma](https://en.wikipedia.org/wiki/Dharma) in Dharmic religions (with the striving towards a notion of the One like nirvana) with certain concrete rulesets, principles or practices that claim to make someone more aligned with dharma, such as
 	- the [Five Precepts](https://en.wikipedia.org/wiki/Five_precepts) and the [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path) in buddhism
-	- the principles explained in the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Message_of_the_Guru_Granth_Sahib) in Sikhism
+	- the principles explained in the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Message_of_the_Guru_Granth_Sahib) in Sikhism ([Gurmat](https://gurmat.org/))
 	- the [Manusmriti](https://en.wikipedia.org/wiki/Manusmriti) in Hinduism (including [varna](https://en.wikipedia.org/wiki/Varna_(Hinduism)), a foundation for the caste system)
 - [will of God](https://en.wikipedia.org/wiki/Will_of_God) in Abrahamic religions (expressed e.g. in the Torah, Bible and Qaran)
 	- [canon law](https://en.wikipedia.org/wiki/Canon_law) in Christianity
 	- [halakha](https://en.wikipedia.org/wiki/Halakha) in Judaism
 	- [sharia](https://en.wikipedia.org/wiki/Sharia) in Islam
 	- more concrete rulesets such as the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments) or the [Seven Laws of Noah](https://en.wikipedia.org/wiki/Seven_Laws_of_Noah)
-	- interestingly, to reinforce the validity of its rules even further, Islam has the notion of [fitra](https://en.wikipedia.org/wiki/Fitra) to invalidate the idea that Islam is a **learnt** belief system constructed by humans like any other
 - [asha](https://en.wikipedia.org/wiki/Asha) in Zoroastrianism
 - [maat](https://en.wikipedia.org/wiki/Maat#Law) in Ancient Egypt
 - [logos](https://en.wikipedia.org/wiki/Logos#Stoics) in Stoicism
@@ -113,26 +130,36 @@ Examples include:
 	- typically law is "less universal" than the other types of tenets mentioned above, because often it is [negative](https://en.wikipedia.org/wiki/Negative_and_positive_rights), i.e. it tells people what **not** to do
 	- in contrast, **rights** are formulated in a **positive** way (see e.g. [three generations of human rights](https://en.wikipedia.org/wiki/Three_generations_of_human_rights)), i.e. they say what people **should** do
 	- in some states, there can be a significant overlap with [religious law](https://en.wikipedia.org/wiki/Religious_law)
+- [Värdegrund](https://en.wikipedia.org/wiki/V%C3%A4rdegrund)
 - different authoritative works in ideologies like capitalism, socialism, communism (e.g. "The Communist Manifesto"), liberalism, fascism (e.g. "Mein Kampf"), anarchism etc.
 - attempts to discover a primordial striving common to every human, in the context of philosophy and psychotherapy
 	- Nietzsche's [will to power](https://en.wikipedia.org/wiki/Will_to_power)
 	- Freud's [will to pleasure](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology))
 	- Frankl's [will to meaning](https://en.wikipedia.org/wiki/Logotherapy)
 	- Schopenhauer portraying existence as driven by a blind, insatiable will, leading to constant dissatisfaction (in [The World as Will and Representation](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation))
-### Primordial trust
-"Primordial trust" (German: Urvertrauen) shall refer to the deep-seated confidence in a specific primordial striving. It can be seen as trust by an individual in that their "compass" towards the One actually points **in the "right" direction**. Primordial trust is **the possibility of belief itself**.
+- many communities also construct tenets without an explicit connection to any notion of the One, such as [the 10 principles of Burning Man](https://burningman.org/about/10-principles/), or otherwise typically labelled as something like "code of conduct", "ethical guidelines" etc.
 
-Related terms include:
-- [faith](https://en.wikipedia.org/wiki/Faith)
-- [divine command theory](https://en.wikipedia.org/wiki/Divine_command_theory)
-- [pistis](https://en.wikipedia.org/wiki/Pistis) in Christianity
-- [bitachon](https://www.ou.org/life/inspiration/difference-emunah-bitachon/) in Judaism
-- [tawakkul](https://en.wikipedia.org/wiki/Tawakkul) in Islam
-- [ziran](https://en.wikipedia.org/wiki/Ziran) in Daoism
-- [śraddhā](https://en.wikipedia.org/wiki/Faith_in_Hinduism) in Hinduism
-- [scientism](https://en.wikipedia.org/wiki/Scientism) referring to primordial trust in the scientific method
+People following a certain world view typically have a notion of seeing the act of adhering to the respective tenets associated with their primordial striving (see below) as
+- [virtuous](https://en.wikipedia.org/wiki/Virtue)
+- [holy](https://en.wikipedia.org/wiki/Sacredness#Holy)
+- [taqwa](https://en.wikipedia.org/wiki/Taqwa) in Islam
+- [tzadik](https://en.wikipedia.org/wiki/Tzadik) in Judaism
+- [sattva](https://en.wikipedia.org/wiki/Sattva) in Samkhya Hinduism
+- [ren and li](https://inst-east-and-west.org/en/learning/2018/002496.html) in Confucianism
+- [de](https://en.wikipedia.org/wiki/De_(Chinese)) in Taoism
 
-Primordial trust is the most vulnerable core aspect of every belief system, because when this trust is somehow eroded or even invalidated, that constitutes the detachment from that respective belief system overall. One of the most obvious examples of this in Western societies, primarily directed towards the Christian god, is [Nietzsche's "god is dead"](https://en.wikipedia.org/wiki/God_is_dead).
+And, consequently, the opposite is seen as
+- [sinful](https://en.wikipedia.org/wiki/Sin), [evil](https://en.wikipedia.org/wiki/Evil), [wicked](https://en.wikipedia.org/wiki/Wickedness)
+- [vice](https://en.wikipedia.org/wiki/Vice)
+- [fasiq](https://en.wikipedia.org/wiki/Fasiq) and [haram](https://en.wikipedia.org/wiki/Haram) in Islam
+- [various terms in Judaism](https://en.wikipedia.org/wiki/Jewish_views_on_sin)
+- [adharma](https://en.wikipedia.org/wiki/Adharma) in Dharmic religions
+- [akusala](https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/9281/3142) in Buddhism
+- [criminal](https://en.wikipedia.org/wiki/Crime) in secular law
+
+Roughly speaking, an individual can respond to breaches of tenets (both by themselves and by others) along a spectrum of emotions, with the two extremes being:
+- guilt, shame, fear, remorse, and regret, with variations such as anger, hatred, contempt, disgust, horror, and social disapproval/stigmatization depending on the specific context
+- self-reflection, compassion, empathy, integrity, accountability, forgiveness, desire for understanding, respect, healing, gratitude
 ## Pleasure
 "Pleasure" shall refer to the experience of **subjective well-being**. Colloquially, it can be interpreted as simply "feeling good".
 
@@ -243,12 +270,12 @@ Some associated terms include:
 Thus literally, "henophilia" means "One-love", implying both "loving the One" and "the One is love". It acknowledges that, because all world views are constructed, humankind can make a conscious choice on how it **wants** to construct a world view.
 
 Connecting the dots, henophilia is a world view consisting of:
-- **love** as the universal primordial striving
-- **wisdom** as the tenets
-- primordial trust in **yourself**
 - **flourishing** as the One
+- **love** as the primordial striving
+- primordial trust in **yourself**
+- **wisdom** as the tenets
 
-Expressed as a single commitment: "**I strive for flourishing**". When meeting another henophile, it is represented by the sentiment of "**I know that you strive for flourishing and you know that I strive for flourishing**". Henophilia can be seen as the path towards the highest stage of Maslow's hierarchy of needs, "transcendence". It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
+Expressed as a single commitment: "**I strive for flourishing**". When meeting another henophile, it is represented by the fundamentally trusting sentiment of "**I know that you strive for flourishing and you know that I strive for flourishing**". Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
 ## Characterizing henophilia
 First, let's make some more observations:
 
@@ -341,6 +368,8 @@ This means that in the entire domain of striving towards flourishing, henophilia
 	- one core aspect of this will be projects that are interdisciplinary and interfaith in every regard, e.g. for fundamental topics like cultivating self-love, establishing a new death culture, peacemaking initiatives, new economic models (e.g. for communities), exploring the potential of interdisciplinary science
 - openly sharing knowledge to allow people to learn how to build decentralized organizational structures (e.g. physical spaces, universal basic income, foundations etc.) to become able to actually dedicate their time to henophilia and to later share this privilege with more and more others
 - hosting events, building communities and eventually building societies and ecosystems oriented around the concept of henophilia
+
+As pleasure, meaning, trust, belief and art are closely interconnected, henophilia.org sees itself merely as a highly dynamic **art project**, focused on creation and holistic creativity. Just like any art, the beauty of it cannot be described, but it must be felt.
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
