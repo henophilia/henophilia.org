@@ -10,7 +10,8 @@ Terms for this concept in different frameworks include:
 - [nirvana](https://en.wikipedia.org/wiki/Nirvana) and [moksha](https://en.wikipedia.org/wiki/Moksha) in Dharmic religions
 - seeing [brahman](https://en.wikipedia.org/wiki/Brahman) and [atman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) as identical, as in the Hindu school of [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (advaita = non-dualism, vedanta = dualism)
 - [the Tao](https://en.wikipedia.org/wiki/Tao) in Daoism
-- [God](https://en.wikipedia.org/wiki/God)
+- the experience of [satori](https://en.wikipedia.org/wiki/Satori) in Zen buddhism
+- [God](https://en.wikipedia.org/wiki/God) and [YHWH](https://en.wikipedia.org/wiki/Tetragrammaton)
 - [Ein Sof](https://en.wikipedia.org/wiki/Ein_Sof) in Kabbalah
 - [wujūd](https://en.wikipedia.org/wiki/Wujud) in Sufism
 - [tawhid](https://en.wikipedia.org/wiki/Tawhid) and [al-aḥad](https://en.wikipedia.org/wiki/Al-A%E1%B8%A5ad) in Islam
@@ -30,8 +31,9 @@ Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which 
 The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) which aim to be universal are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete, see:
 
 - [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) (note that the One violates the [axiom of regularity](https://en.wikipedia.org/wiki/Axiom_of_regularity), as it contains everything, including itself)
-- [Liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)
-- and especially [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+- [liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)
+- [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+- [halting problem](https://en.wikipedia.org/wiki/Halting_problem)
 
  That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false".
 # The human experience
@@ -58,6 +60,7 @@ Terms related to this observation include:
 	- [Sefirot](https://en.wikipedia.org/wiki/Sefirot) in Kabbalah
 	- [great chain of being](https://en.wikipedia.org/wiki/Great_chain_of_being) in Christianity (note that "god" is seen as on top of the chain, but also the creator of the chain itself)
 	- [marāṭib al-wujūd](https://medium.com/@miainsel2/sufi-metaphysics-wujud-bc86e54f0176) in Sufism
+- [measurement problem](https://en.wikipedia.org/wiki/Measurement_problem)
 ## Constructing morality
 ### Subjectivity
 "Subjectivity" shall refer to the observation that within the ubiquitous system emanating from the One, "you" are just one of the parts. It refers to a certain level of **separation** you perceive between what you call "I", "ego", "self" etc. and your "**environment**".
@@ -74,7 +77,7 @@ The Now can include aspects such as:
 "Primordial striving" (German: Urwille or Urstreben) shall refer to an individual's fundamental inherent, intrinsic will, drive, motivation or urge. From the human perspective, it can be seen as the single **compass** "towards" the One. 
 
 Related terms include:
-- [diligence](https://en.wikipedia.org/wiki/Diligence) (and its opposite [acedia](https://en.wikipedia.org/wiki/Acedia))
+- [diligence](https://en.wikipedia.org/wiki/Diligence#In_Christianity) (and its opposite [acedia](https://en.wikipedia.org/wiki/Acedia))
 - [jihad](https://en.wikipedia.org/wiki/Jihad) in Islam
 - [tapas](https://en.wikipedia.org/wiki/Tapas_(Indian_religions)) in Dharmic religions
 - [vīrya](https://en.wikipedia.org/wiki/V%C4%ABrya) in Buddhism
@@ -86,7 +89,7 @@ Terms related to an overly enthusiastic, uncritical primordial striving include 
 
 Additionally, some beliefs have a notion of concepts which bring humans **further away** from the One, and which are "fixed" through that respective belief, such as:
 - fundamental predispositions of human nature, especially in Abrahamic religions
-	- [original sin](https://en.wikipedia.org/wiki/Original_sin) in Christianity
+	- [original sin](https://en.wikipedia.org/wiki/Original_sin) in Christianity (related: [ancestral sin](https://en.wikipedia.org/wiki/Ancestral_sin), [fall of man](https://en.wikipedia.org/wiki/Fall_of_man))
 	- [an-nafs al-ʾammārah](https://en.wikipedia.org/wiki/Nafs#The_inciting_nafs_(an-nafs_al-%CA%BEamm%C4%81rah)) in Sufism
 	- [Yetzer hara](https://en.wikipedia.org/wiki/Yetzer_hara) in Judaism
 - [kleshas](https://en.wikipedia.org/wiki/Kleshas_(Buddhism)) in Buddhism
@@ -101,6 +104,7 @@ Related terms include:
 - [tawakkul](https://en.wikipedia.org/wiki/Tawakkul) in Islam
 	- to reinforce the trust in itself even further, Islam also has the notion of [fitra](https://en.wikipedia.org/wiki/Fitra), through which some see Islam as superior, especially over the other Abrahamic religions
 - [ziran](https://en.wikipedia.org/wiki/Ziran) in Daoism
+- [bhakti](https://en.wikipedia.org/wiki/Bhakti) in Dharmic religions
 - [śraddhā](https://en.wikipedia.org/wiki/Faith_in_Hinduism) in Hinduism
 - [scientism](https://en.wikipedia.org/wiki/Scientism) referring to primordial trust in the scientific method
 
@@ -150,7 +154,8 @@ People following a certain world view typically have a notion of seeing the act 
 
 And, consequently, the opposite is seen as
 - [sinful](https://en.wikipedia.org/wiki/Sin), [evil](https://en.wikipedia.org/wiki/Evil), [wicked](https://en.wikipedia.org/wiki/Wickedness)
-- [vice](https://en.wikipedia.org/wiki/Vice)
+- a [vice](https://en.wikipedia.org/wiki/Vice)
+- [heretical](https://en.wikipedia.org/wiki/Heresy)
 - [fasiq](https://en.wikipedia.org/wiki/Fasiq) and [haram](https://en.wikipedia.org/wiki/Haram) in Islam
 - [various terms in Judaism](https://en.wikipedia.org/wiki/Jewish_views_on_sin)
 - [adharma](https://en.wikipedia.org/wiki/Adharma) in Dharmic religions
@@ -293,12 +298,6 @@ Thus **the act** of this metaphorical bridge building is equivalent to "love". F
 2. **understanding others**: I want to learn and understand what experiencing pleasure means for my environment.
 3. **realizing pleasure for the self**: I want to actively infuse every aspect of my own life with pleasure, both my thoughts and my behaviors. I see myself as the core creator and cultivator of my own pleasure.
 4. **realizing synergetic pleasure**: I want to discover and realize ways how interactions with my environment result in experiencing more pleasure on all sides.
-
-Most importantly, striving for synergetic pleasure means learning to find a balance between **acknowledging and cherishing** the subjective "I" (self-love) and also **transcending** it by becoming open to intertwining with love for the environment (other people, nature etc.). Concepts related to this balance include:
-- [golden mean](https://en.wikipedia.org/wiki/Golden_mean_(philosophy)) in various philosophies
-- [zhongyong](https://en.wikipedia.org/wiki/Doctrine_of_the_Mean) (doctrine of the mean) in Confucianism
-- [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) in Buddhism
-- [zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) in Taoism
 ## Death
 "Death" shall refer to a state where you permanently cease to experience your Now. At least so far you won't remember having ever been actually dead for good, because when you are reading this, you are alive. For you in your current form, it's not possible to have anything more than **near**-death experiences. When you are thinking about your own death, it's always a **future** scenario. You will also never truly know whether you are immortal.
 
@@ -320,6 +319,14 @@ From the ideas stated so far, which existing views are related to the idea of he
 First and foremost, henophilia always implies [religious pluralism](https://en.wikipedia.org/wiki/Religious_pluralism) in the sense of the deep conviction of pantheism and non-dualism, namely "there is **not only one truth**". Exclusivism ([religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism), but also other dogmas like [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism#Substance_or_Cartesian_dualism)), i.e. the belief that there is only "one truth which shall rule them all" or "one true set of tenets" must be overcome. Henophilia does not claim to state any truths, instead it merely expresses the "meta-truth" of "there can be multiple truths" and giving up the notion of truth as unchanging and immutable. Related terms are [henotheism](https://en.wikipedia.org/wiki/Henotheism), [kathenotheism](https://en.wikipedia.org/wiki/Kathenotheism) and [monolatry](https://en.wikipedia.org/wiki/Monolatry).
 
 Despite this stance, henophilia is not "against" religious exclusivists or monotheists in the sense of seeing them as enemies to be "fought against" in any way. No [idée fixe](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology)) should be used to justify destructive conflict, neither henophilia itself, nor any other world view. Instead, many such outbursts of violence in any form, especially based on spiritual, political or religious grounds, can be seen as either trauma responses or learned behavior. To heal, both require compassion and empathy from those that don't see ideological exclusivism as a threat anymore.
+
+Striving for synergetic pleasure in the context of henophilia means learning to find a balance between **acknowledging and cherishing** the subjective "I" (self-love) and also **transcending** it by becoming open to intertwining with love for the environment (other people, nature etc.). Concepts related to this balance include:
+- [golden mean](https://en.wikipedia.org/wiki/Golden_mean_(philosophy)) in various philosophies
+- [zhongyong](https://en.wikipedia.org/wiki/Doctrine_of_the_Mean) (doctrine of the mean) in Confucianism
+- [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) in Buddhism
+- [zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) as well as "harmony" in Taoism
+- [equilibration](https://web.mnstate.edu/smithb/psych_tl/hd/lesson1/psychtopics/disequilibration.html) in Piaget's learning model
+- [homeostasis](https://en.wikipedia.org/wiki/Homeostasis) and [homeodynamics](https://en.wiktionary.org/wiki/homeodynamics)
 
 Henophilia encourages those for whom "god is dead" (atheists) to not equate this sentiment with the categorical rejection of all practices which are normally considered religious or spiritual. After all, while some of the current world views result in many issues (e.g. wars, power centralization, control, dogmatism, intolerance, manipulation), they can also have positive effects on people's lives (e.g. community, belonging, ethical guidance, hope, routines, support in grief). The aim of henophilic projects is to iteratively develop new and adjust existing societal structures and tenets through strategic, consensual, wisdom-based, structural tweaks which **foster the socio-psychologically positive effects of beliefs** (with "positive" in regards to subjective pleasure as defined above) and **discontinue the propagation of their negative effects**. Through the One, all beliefs, religions, philosophies, world views etc. can be seen and can see themselves as striving to **unify** humanity with itself and with nature instead of dividing it further. Henophilia is thus also related to [eclecticism](https://en.wikipedia.org/wiki/Eclecticism) and [syncretism](https://en.wikipedia.org/wiki/Syncretism) and it can be seen as a [perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy).
 
@@ -368,7 +375,7 @@ This means that in the entire domain of striving towards flourishing, henophilia
 ## Reflection
 The concept of henophilia has implications even for the choice of the word "henophilia" for itself. Of course that word is completely arbitrary. That term was only chosen to be able to talk **about** the concept at all, but it never claims any authority. Everyone can make up different words for what is called "henophilia" in this text, everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
 
-As pleasure, meaning, trust, belief, beauty and art are closely interconnected, henophilia.org sees itself merely as a highly dynamic **art project**, focusing on holistic creativity and creation. Just like any art, the beauty of it cannot be described, but it can only be felt.
+As pleasure, meaning, trust, belief, beauty and art are closely interconnected, by expressing henophilia, henophilia.org sees itself merely as a highly dynamic **art project**, focusing on holistic creativity and creation. [Ideas deserve to be aesthetic.](https://signaturen-magazin.de/georg-wilhelm-friedrich-hegel---das-aelteste-systemprogramm-des-deutschen-idealismus--.html) Just like any art, the beauty of them cannot be described, but it can only be felt.
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
