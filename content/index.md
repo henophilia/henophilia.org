@@ -3,7 +3,7 @@ Imagine that you have just been born. Certain terms might be used here in a slig
 "The One" shall refer to the ultimate, transcendent principle which relates to unity and simplicity, beyond all multiplicity and distinctions. The One can be seen as "godly" in the sense of "The divine encompasses everything".
 
 Terms for this concept in different frameworks include:
-- [the One](https://en.wikipedia.org/wiki/Neoplatonism#The_One) (ancient Greek: hen = unity) in the works of Plotinus (neoplatonism)
+- [the One](https://en.wikipedia.org/wiki/Neoplatonism#The_One) in the works of Plotinus (neoplatonism)
 - [monism](https://en.wikipedia.org/wiki/Monism) and [nondualism](https://en.wikipedia.org/wiki/Nondualism)
 - [pantheism](https://en.wikipedia.org/wiki/Pantheism)
 - the [absolute](https://en.wikipedia.org/wiki/Absolute_(philosophy)) in the works of Hegel and others
@@ -11,11 +11,12 @@ Terms for this concept in different frameworks include:
 - seeing [brahman](https://en.wikipedia.org/wiki/Brahman) and [atman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) as identical, as in the Hindu school of [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (advaita = non-dualism, vedanta = dualism)
 - [the Tao](https://en.wikipedia.org/wiki/Tao) in Daoism
 - the experience of [satori](https://en.wikipedia.org/wiki/Satori) in Zen buddhism
+- [waheguru](https://en.wikipedia.org/wiki/Waheguru) in Sikhism
 - [God](https://en.wikipedia.org/wiki/God) and [YHWH](https://en.wikipedia.org/wiki/Tetragrammaton)
 - [Ein Sof](https://en.wikipedia.org/wiki/Ein_Sof) in Kabbalah
 - [wujūd](https://en.wikipedia.org/wiki/Wujud) in Sufism
 - [tawhid](https://en.wikipedia.org/wiki/Tawhid) and [al-aḥad](https://en.wikipedia.org/wiki/Al-A%E1%B8%A5ad) in Islam
-- [waheguru](https://en.wikipedia.org/wiki/Waheguru) in Sikhism
+- [wakan tanka](https://en.wikipedia.org/wiki/Wakan_Tanka) in Lakota spirituality
 - [teotl](https://en.wikipedia.org/wiki/Teotl) in Aztec frameworks
 - [chaos](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Greco-Roman_tradition) in Greco-Roman tradition
 - [tiamat](https://en.wikipedia.org/wiki/Tiamat) in Mesopotamian religion
@@ -25,6 +26,7 @@ Terms for this concept in different frameworks include:
 - [actus purus](https://en.wikipedia.org/wiki/Actus_purus)
 - [unmoved mover](https://en.wikipedia.org/wiki/Unmoved_mover)
 - [perfection](https://en.wikipedia.org/wiki/Perfection)
+- [cosmic consciousness](https://en.wikipedia.org/wiki/Cosmic_Consciousness)
 
 Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which are always related to a world view's concept of the One, are, by definition, [epic](https://en.wikipedia.org/wiki/Epic_poetry).
 
@@ -247,15 +249,15 @@ In a similar fashion, "wisdom" can be defined as the **knowledge of ways** to **
 	- [brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara) in Buddhism
 	- [puruṣārtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) in Hinduism
 ## Flourishing
-Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of existence where **pleasure in all its aspects (as mentioned above) is the norm in all areas of life for everyone**. 
+Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of earthly (!) existence where **pleasure in all its aspects (as mentioned above) is the norm in all areas of life for everyone**. 
 
 Some associated terms include:
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) in the bible
 - [Golden Age](https://en.wikipedia.org/wiki/Golden_Age) in Greek mythology
-- [Sukhavati](https://en.wikipedia.org/wiki/Sukhavati) in Buddhism
-- [Satya Yuga](https://en.wikipedia.org/wiki/Satya_Yuga) and [Svarga](https://en.wikipedia.org/wiki/Svarga) in Hinduism
-- [Tian](https://en.wikipedia.org/wiki/Tian) in Confucianism and Taoism
-- [Frashokereti](https://en.wikipedia.org/wiki/Frashokereti) in Zoroastrianism
+- [sukhavati](https://en.wikipedia.org/wiki/Sukhavati) in Buddhism
+- [satya yuga](https://en.wikipedia.org/wiki/Satya_Yuga) and [svarga](https://en.wikipedia.org/wiki/Svarga) in Hinduism
+- [tian](https://en.wikipedia.org/wiki/Tian) in Confucianism and Taoism
+- [frashokereti](https://en.wikipedia.org/wiki/Frashokereti) in Zoroastrianism
 - the world envisioned in the [Taipingjing](https://en.wikipedia.org/wiki/Taipingjing)
 - the world envisioned in [Utopia](https://en.wikipedia.org/wiki/Utopia_(book)) by Thomas More
 - a society solely consisting of individuals striving for
@@ -316,9 +318,9 @@ The core point is thus the **openness** to discussion itself. Most importantly, 
 ## Related concepts and implications
 From the ideas stated so far, which existing views are related to the idea of henophilia?
 
-First and foremost, henophilia always implies [religious pluralism](https://en.wikipedia.org/wiki/Religious_pluralism) in the sense of the deep conviction of pantheism and non-dualism, namely "there is **not only one truth**". Exclusivism ([religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism), but also other dogmas like [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism#Substance_or_Cartesian_dualism)), i.e. the belief that there is only "one truth which shall rule them all" or "one true set of tenets" must be overcome. Henophilia does not claim to state any truths, instead it merely expresses the "meta-truth" of "there can be multiple truths" and giving up the notion of truth as unchanging and immutable. Related terms are [henotheism](https://en.wikipedia.org/wiki/Henotheism), [kathenotheism](https://en.wikipedia.org/wiki/Kathenotheism) and [monolatry](https://en.wikipedia.org/wiki/Monolatry).
+First and foremost, henophilia always implies [religious pluralism](https://en.wikipedia.org/wiki/Religious_pluralism) in the sense of the deep conviction of pantheism and non-dualism, namely "there is **not only one truth**". Exclusivism ([religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism), but also other dogmas like [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism#Substance_or_Cartesian_dualism)), i.e. the belief that there is only "one truth which shall rule them all" or "one true set of tenets" must be overcome. Henophilia does not claim to state any truths, instead it merely expresses the "meta-truth" of "there can be multiple truths" and giving up the notion of truth as unchanging and immutable. Related terms are [henotheism](https://en.wikipedia.org/wiki/Henotheism), [kathenotheism](https://en.wikipedia.org/wiki/Kathenotheism) and [monolatry](https://en.wikipedia.org/wiki/Monolatry). More practically, this tendency towards "unity in diversity" also applies to all other aspects of the human experience, e.g. culture, relationships, gender, sexuality etc.
 
-Despite this stance, henophilia is not "against" religious exclusivists or monotheists in the sense of seeing them as enemies to be "fought against" in any way. No [idée fixe](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology)) should be used to justify destructive conflict, neither henophilia itself, nor any other world view. Instead, many such outbursts of violence in any form, especially based on spiritual, political or religious grounds, can be seen as either trauma responses or learned behavior. To heal, both require compassion and empathy from those that don't see ideological exclusivism as a threat anymore.
+Despite this stance, henophilia is not "against" exclusivists or monotheists in the sense of seeing them as enemies to be "fought against" in any way. No [idée fixe](https://en.wikipedia.org/wiki/Id%C3%A9e_fixe_(psychology)) should be used to justify destructive conflict, neither henophilia itself, nor any other world view. Instead, many such outbursts of violence in any form, especially based on spiritual, political or religious grounds, can be seen as either trauma responses or learned behavior. To heal, both require compassion and empathy from those that don't see ideological exclusivism as a threat anymore.
 
 Striving for synergetic pleasure in the context of henophilia means learning to find a balance between **acknowledging and cherishing** the subjective "I" (self-love) and also **transcending** it by becoming open to intertwining with love for the environment (other people, nature etc.). Concepts related to this balance include:
 - [golden mean](https://en.wikipedia.org/wiki/Golden_mean_(philosophy)) in various philosophies
