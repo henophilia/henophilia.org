@@ -397,8 +397,8 @@ Just like trust, henophilia is a purely cognitive concept. It's a verbalization 
 
 Especially if you react with "yeah of course, it's so obvious!" to this, I would genuinely love to hear from you, as it's a bit of a passion project of mine. But despite my research, I just haven't found anything **actually** similar. Sometimes it feels a bit weird that in the spectrum of "possible world views", henophilia isn't the norm yet. That the desire to heal broken unity is the single most important belief for every individual in humanity to cultivate. And there is a path beyond healing. And showing that path is pretty fucking powerful.
 
-The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can decide ourselves what this entails. Enthusiastic consent only.
+The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can consciously decide ourselves what this entails. Enthusiastic consent only.
 
-My email address is in the "Co-creation" section above, in case you haven't seen. The "formal part". Everything is co-creation, duh!
+My email address is in the "Co-creation" section above, in case you haven't seen. The "formal part". Everything is co-creation, duh! 💞
 
 –J
