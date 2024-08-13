@@ -30,12 +30,14 @@ Terms for this concept in different frameworks include:
 
 Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which are always related to a world view's concept of the One, are, by definition, [epic](https://en.wikipedia.org/wiki/Epic_poetry).
 
-The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) which aim to be universal are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete, see:
+The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete when they are applied to **self-referential** cases, i.e. there are always fundamental limitations in formal systems or theories, such as:
 
 - [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) (note that the One violates the [axiom of regularity](https://en.wikipedia.org/wiki/Axiom_of_regularity), as it contains everything, including itself)
+	- derived paradoxes such as the [barber paradox](https://en.wikipedia.org/wiki/Barber_paradox) and the [Grelling–Nelson paradox](https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox)
 - [liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)
 - [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-- [halting problem](https://en.wikipedia.org/wiki/Halting_problem)
+- [halting problem](https://en.wikipedia.org/wiki/Halting_problem) in computability theory
+- [singularities](https://en.wikipedia.org/wiki/Gravitational_singularity) in physics
 
  That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false".
 # The human experience
@@ -123,11 +125,12 @@ Examples include:
 	- the [Five Precepts](https://en.wikipedia.org/wiki/Five_precepts) and the [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path) in buddhism
 	- the principles explained in the [Guru Granth Sahib](https://en.wikipedia.org/wiki/Message_of_the_Guru_Granth_Sahib) in Sikhism ([Gurmat](https://gurmat.org/))
 	- the [Manusmriti](https://en.wikipedia.org/wiki/Manusmriti) in Hinduism (including [varna](https://en.wikipedia.org/wiki/Varna_(Hinduism)), a foundation for the caste system)
-- [will of God](https://en.wikipedia.org/wiki/Will_of_God) in Abrahamic religions (expressed e.g. in the Torah, Bible and Qaran)
+- [will of God](https://en.wikipedia.org/wiki/Will_of_God) in Abrahamic religions (expressed in different [creeds](https://en.wikipedia.org/wiki/Creed), resulting in e.g. in the Torah, Bible and Qaran)
 	- [canon law](https://en.wikipedia.org/wiki/Canon_law) in Christianity
 	- [halakha](https://en.wikipedia.org/wiki/Halakha) in Judaism
 	- [sharia](https://en.wikipedia.org/wiki/Sharia) in Islam
 	- more concrete rulesets such as the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments) or the [Seven Laws of Noah](https://en.wikipedia.org/wiki/Seven_Laws_of_Noah)
+- [li](https://en.wikipedia.org/wiki/Li_(Confucianism)) in Confucianism
 - [asha](https://en.wikipedia.org/wiki/Asha) in Zoroastrianism
 - [maat](https://en.wikipedia.org/wiki/Maat#Law) in Ancient Egypt
 - [logos](https://en.wikipedia.org/wiki/Logos#Stoics) in Stoicism
@@ -249,7 +252,7 @@ In a similar fashion, "wisdom" can be defined as the **knowledge of ways** to **
 	- [brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara) in Buddhism
 	- [puruṣārtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) in Hinduism
 ## Flourishing
-Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of earthly (!) existence where **pleasure in all its aspects (as mentioned above) is the norm in all areas of life for everyone**. 
+Finally, in this context, "flourishing" is defined as a hypothetical, **idealized** state of earthly (!) existence where **pleasure in all its aspects (as mentioned above) is the norm in all areas of life for everyone**.
 
 Some associated terms include:
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) in the bible
@@ -334,7 +337,11 @@ Striving for synergetic pleasure in the context of henophilia means learning to 
 
 Henophilia encourages those for whom "god is dead" (atheists) to not equate this sentiment with the categorical rejection of all practices which are normally considered religious or spiritual. After all, while some of the current world views result in many issues (e.g. wars, power centralization, control, dogmatism, intolerance, manipulation), they can also have positive effects on people's lives (e.g. community, belonging, ethical guidance, hope, routines, support in grief). The aim of henophilic projects is to iteratively develop new and adjust existing societal structures and tenets through strategic, consensual, wisdom-based, structural tweaks which **foster the socio-psychologically positive effects of beliefs** (with "positive" in regards to subjective pleasure as defined above) and **discontinue the propagation of their negative effects**. Through the One, all beliefs, religions, philosophies, world views etc. can be seen and can see themselves as striving to **unify** humanity with itself and with nature instead of dividing it further. Henophilia is thus also related to [eclecticism](https://en.wikipedia.org/wiki/Eclecticism) and [syncretism](https://en.wikipedia.org/wiki/Syncretism) and it can be seen as a [perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy).
 
-The consciously chosen [immunization strategy](https://de-m-wikipedia-org.translate.goog/wiki/Immunisierungsstrategie?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) of henophilia is the [belief](https://en.wikipedia.org/wiki/Belief) (i.e. the unprovable, subjective attitude) that steps towards flourishing can be made. It is the fundamental hope of "we can do better", culminating in the collective striving of "we **will** do better".
+The consciously chosen [immunization strategy](https://de-m-wikipedia-org.translate.goog/wiki/Immunisierungsstrategie?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) of henophilia is the [belief](https://en.wikipedia.org/wiki/Belief) (i.e. the unprovable, subjective attitude) that steps towards flourishing can be made. It is the fundamental hope (= primordial trust) of "we can do better", culminating in the collective striving of "we **will** do better".
+
+Henophilia can exist in **parallel** with other beliefs. The aforementioned framework consisting of "primordial striving", "primordial trust" and "tenets" can be applied to any interpretation of "the One". For henophilia, we chose "flourishing" specifically in the **earthly** sense, i.e. in regards to what can actually be experienced by humans, in order to **bring together life on earth**. But any individual can adopt one or many additional beliefs when it comes to metaphysical questions like "What happens to me after death?", i.e. where the One is a concept beyond death of one's human body.
+
+When acknowledging the unity of all existing beliefs of divinity, it is even possible to go as far as seeing especially Abrahamic monotheism merely as a misinterpretation of "the One". After all, the [Nicene Creed](https://en.wikipedia.org/wiki/Nicene_Creed), the [shahada](https://en.wikipedia.org/wiki/Shahada) and the [shema yisrael](https://en.wikipedia.org/wiki/Shema) all refer to god as "one".
 
 Henophilia cannot have "leaders", "prophets" or any other people making statements which would have more "authority" than others or which would even claim to be legitimized by any external divinity, as divinity is not seen as external anyway. The path towards flourishing (striving towards love, trusting in the self) is always individual, and in combination with the ability to conceive a [theory of mind](https://en.wikipedia.org/wiki/Theory_of_mind) implying empathy, it can spread [autopoietically](https://en.wikipedia.org/wiki/Autopoiesis). Of course there can be more concrete groups of individuals where a certain hierarchy and distribution of roles might simply be useful, trust-enhancing and productive. But henophilia overall is decentralized and without large-scale power hierarchies by definition.
 
@@ -381,21 +388,21 @@ This means that in the entire domain of striving towards flourishing, henophilia
 ## Reflection
 The concept of henophilia has implications even for the choice of the word "henophilia" for itself. Of course that word is completely arbitrary. That term was only chosen to be able to talk **about** the concept at all, but it never claims any authority. Everyone can make up different words for what is called "henophilia" in this text, everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
 
-As pleasure, meaning, trust, belief, beauty and art are closely interconnected, by expressing henophilia, henophilia.org sees itself merely as a highly dynamic **art project**, focusing on holistic creativity and creation. [Ideas deserve to be aesthetic.](https://signaturen-magazin.de/georg-wilhelm-friedrich-hegel---das-aelteste-systemprogramm-des-deutschen-idealismus--.html) Just like any art, the beauty of them cannot be described, but it can only be felt.
+As pleasure, meaning, trust, belief, beauty and art are closely interconnected, by expressing henophilia, henophilia.org sees itself merely as a highly dynamic **art project**, focusing on holistic creativity and creation. [Ideas deserve to be aesthetic.](https://signaturen-magazin.de/georg-wilhelm-friedrich-hegel---das-aelteste-systemprogramm-des-deutschen-idealismus--.html) Just like any art, the beauty of henophilia cannot be described, but it can only be felt.
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-08-11
+Last update: 2024-08-13
 # Epilogue
-Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential. In formal logics, this is equivalent to a "paradox". That is because that in the context of "the One", we for example don't look at the "problem" which the outcome of Russell's paradox has. Instead, we are looking at the magical definition which led to this problem in the first place: `{ x | x ∉ x }`. For henophilia, there are no paradoxes, there are only situations which require understanding.
+Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential.
 
-When you befriend unity by embracing it practically, you will realize this more and more, every day, every month, every year, until the end of your life. The persevering trust in your own creation of long-term pleasure (or even just the hope thereof!) is something that will make you feel powerful. But not powerful in the "egoistic leader" sense, but benevolent, down-to-earth, sharing, compassionate. Grounded not only with earth, but grounded with "who you really want to be". Like, really, really want to be. Because you **are** earth.
+When you befriend unity by embracing it practically, you will realize its effect more and more, every day, every month, every year, until the end of your life. The persevering trust in your own creation of long-term pleasure (or even just the hope thereof!) is something that will make you feel powerful. But not powerful in the "egoistic leader" sense, but benevolent, down-to-earth, sharing, compassionate. Grounded not only with earth, but grounded with "who you really want to be". Like, really, really want to be. Because you **are** earth.
 
-It will stimulate those dreams of yours like you've never felt before. Even if some dreams seem unrealistic for now, we know that the essence is always pretty similar: Feeling heard, feeling seen, feeling like you matter, feeling like you don't need to constantly defend yourself, just getting a fresh breath of air beyond all the "normal people". Feeling home in every regard. A home you can make your own, no matter how crazy or ordinary you like it. And where you just know "I am loved" and where all doubts just seem silly.
+It will stimulate those dreams of yours like you've never felt before. Even if some dreams seem unrealistic for now, we know that the essence is always pretty similar: Feeling heard, feeling seen, feeling like you matter, feeling like you don't need to constantly defend yourself, just getting a fresh breath of air beyond all the "normal people". Feeling home in every regard. A home you can make your own, no matter how crazy or ordinary you like it. With people you love. And where you just know "I am loved" and where all doubts just seem silly.
 
 Just like trust, henophilia is a purely cognitive concept. It's a verbalization of consciously and confidently following one's personal well-being, which fundamentally implies the well-being of those we love and our environment. The opposite of "love" is not "hate", because the love we mean has no opposite.
 
-Especially if you react with "yeah of course, it's so obvious!" to this, I would genuinely love to hear from you, as it's a bit of a passion project of mine. But despite my research, I just haven't found anything **actually** similar. Sometimes it feels a bit weird that in the spectrum of "possible world views", henophilia isn't the norm yet. That the desire to heal broken unity is the single most important belief for every individual in humanity to cultivate. And there is a path beyond healing. And showing that path is pretty fucking powerful.
+Especially if you react with "yeah of course, it's so obvious!" to this, I would genuinely love to hear from you, as it's a bit of a passion project of mine. Despite my research, I just haven't found anything **actually** similar. Sometimes it feels a bit weird that in the spectrum of "possible world views", henophilia isn't the norm yet, because it seems pretty obvious to me. That the desire to heal broken unity is the single most important belief for every individual in humanity to cultivate. And there is a path beyond healing. And that that path is pretty fucking powerful.
 
 The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can consciously decide ourselves what this entails. Enthusiastic consent only.
 
