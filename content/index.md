@@ -33,8 +33,7 @@ Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which 
 The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete when they are applied to **self-referential** cases, i.e. there are always fundamental limitations in formal systems or theories, such as:
 
 - [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) (note that the One violates the [axiom of regularity](https://en.wikipedia.org/wiki/Axiom_of_regularity), as it contains everything, including itself)
-	- derived paradoxes such as the [barber paradox](https://en.wikipedia.org/wiki/Barber_paradox) and the [Grelling–Nelson paradox](https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox)
-- [liar paradox](https://en.wikipedia.org/wiki/Liar_paradox)
+- related paradoxes such as the [liar paradox](https://en.wikipedia.org/wiki/Liar_paradox), the [barber paradox](https://en.wikipedia.org/wiki/Barber_paradox), the [Grelling–Nelson paradox](https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox), [Richard's paradox](https://en.wikipedia.org/wiki/Richard%27s_paradox) and the [Berry paradox](https://en.wikipedia.org/wiki/Berry_paradox)
 - [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 - [halting problem](https://en.wikipedia.org/wiki/Halting_problem) in computability theory
 - [singularities](https://en.wikipedia.org/wiki/Gravitational_singularity) in physics
@@ -256,7 +255,7 @@ Finally, in this context, "flourishing" is defined as a hypothetical, **idealize
 
 Some associated terms include:
 - [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden) in the bible
-- [Golden Age](https://en.wikipedia.org/wiki/Golden_Age) in Greek mythology
+- [Golden Age](https://en.wikipedia.org/wiki/Golden_Age) and [Fortunate Isles](https://en.wikipedia.org/wiki/Fortunate_Isles) in Greek mythology
 - [sukhavati](https://en.wikipedia.org/wiki/Sukhavati) in Buddhism
 - [satya yuga](https://en.wikipedia.org/wiki/Satya_Yuga) and [svarga](https://en.wikipedia.org/wiki/Svarga) in Hinduism
 - [tian](https://en.wikipedia.org/wiki/Tian) in Confucianism and Taoism
@@ -334,6 +333,7 @@ Striving for synergetic pleasure in the context of henophilia means learning to 
 - [zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) as well as "harmony" in Taoism
 - [equilibration](https://web.mnstate.edu/smithb/psych_tl/hd/lesson1/psychtopics/disequilibration.html) in Piaget's learning model
 - [homeostasis](https://en.wikipedia.org/wiki/Homeostasis) and [homeodynamics](https://en.wiktionary.org/wiki/homeodynamics)
+- [lagom](https://en.wikipedia.org/wiki/Lagom)
 
 Henophilia encourages those for whom "god is dead" (atheists) to not equate this sentiment with the categorical rejection of all practices which are normally considered religious or spiritual. After all, while some of the current world views result in many issues (e.g. wars, power centralization, control, dogmatism, intolerance, manipulation), they can also have positive effects on people's lives (e.g. community, belonging, ethical guidance, hope, routines, support in grief). The aim of henophilic projects is to iteratively develop new and adjust existing societal structures and tenets through strategic, consensual, wisdom-based, structural tweaks which **foster the socio-psychologically positive effects of beliefs** (with "positive" in regards to subjective pleasure as defined above) and **discontinue the propagation of their negative effects**. Through the One, all beliefs, religions, philosophies, world views etc. can be seen and can see themselves as striving to **unify** humanity with itself and with nature instead of dividing it further. Henophilia is thus also related to [eclecticism](https://en.wikipedia.org/wiki/Eclecticism) and [syncretism](https://en.wikipedia.org/wiki/Syncretism) and it can be seen as a [perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy).
 
