@@ -286,12 +286,12 @@ Connecting the dots, henophilia is a world view consisting of:
 
 Expressed as a single commitment: "**I strive for flourishing**". When meeting another henophile, it is represented by the fundamentally trusting sentiment of "**I know that you strive for flourishing and you know that I strive for flourishing**". In addition to encouraging the conscious **creation** of pleasure-related synergies ("I want to do you good") it also has a profound impact on conflict resolution, because the focus is shifted from a confrontative mindset to an empathetic, reflective approach akin to mutually asking "How did I hurt you?" and finding a compromise on "How can I do better next time?".
 
-Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". It aims to make the [numinous](https://en.wikipedia.org/wiki/Numinous) ultimately joyful. It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
+Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". Answering "to be or not to be?" with an enthusiastic "let's be!". It aims to make the [numinous](https://en.wikipedia.org/wiki/Numinous) ultimately joyful. It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros). 
 ## Characterizing henophilia
 First, let's make some more observations:
 
 1. **subjectivity**: I recognize that pleasure can mean something different for every being.
-2. **reflection**: I recognize that my subjective Now and the Now of my environment mirror and depend on each other.
+2. **reflection**: I recognize that my subjective Now and the Now of my environment are interdependent.
 3. **incompleteness**: I recognize that flourishing can never be ultimately reached, instead it always has a process and project character.
 
 Love, the primordial striving of henophilia, can be rephrased as **Building bridges of pleasure between reality and flourishing.** This means that next, we have the **bridge**, i.e. how the abstract, idealized, future-thinking, unachievable "goal" of flourishing is connected to subjective pleasure in the Now:
@@ -394,7 +394,7 @@ Following the spirit of realizing synergetic pleasure, of course this is a co-cr
 
 Last update: 2024-08-13
 # Epilogue
-Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential.
+Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
 When you befriend unity by embracing it practically, you will realize its effect more and more, every day, every month, every year, until the end of your life. The persevering trust in your own creation of long-term pleasure (or even just the hope thereof!) is something that will make you feel powerful. But not powerful in the "egoistic leader" sense, but benevolent, down-to-earth, sharing, compassionate. Grounded not only with earth, but grounded with "who you really want to be". Like, really, really want to be. Because you **are** earth.
 
