@@ -37,6 +37,7 @@ The One can fundamentally not be "proven", because proofs need to exist within a
 - [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 - [halting problem](https://en.wikipedia.org/wiki/Halting_problem) in computability theory
 - [singularities](https://en.wikipedia.org/wiki/Gravitational_singularity) in physics
+- [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) in mathematics (trying to "quantify nothing")
 
  That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false".
 # The human experience
@@ -385,6 +386,13 @@ This means that in the entire domain of striving towards flourishing, henophilia
 	- one core aspect of this will be projects that are interdisciplinary and interfaith in every regard, e.g. for fundamental topics like cultivating self-love, establishing a new death culture, peacemaking initiatives, new economic models (e.g. for communities), exploring the potential of interdisciplinary science
 - openly sharing knowledge to allow people to learn how to build decentralized organizational structures (e.g. physical spaces, universal basic income, foundations etc.) to become able to actually dedicate their time to henophilia and to later share this privilege with more and more others
 - hosting events, building communities and eventually building societies and ecosystems oriented around the concept of henophilia
+
+Some ongoing projects in different stages are:
+- realizing mechanisms to greatly increase the accessibility to funding for henophilic projects, e.g. from foundations, governments, private individuals, inheritance etc.
+- establishing containers to tackle [existential isolation](https://en.wikipedia.org/wiki/Existential_isolation) within people, i.e. "the subjective sense that persons are alone in their experience and that others are unable to understand their perspective"
+- an app for LLM-based conflict resolution assistance, for groups of all sizes, i.e. ranging from inner conflicts of an individual to large-scale societal transitions
+
+If any of these sound interesting to you and you would like to collaborate, feel free to contact synergies@henophilia.org!
 ## Reflection
 The concept of henophilia has implications even for the choice of the word "henophilia" for itself. Of course that word is completely arbitrary. That term was only chosen to be able to talk **about** the concept at all, but it never claims any authority. Everyone can make up different words for what is called "henophilia" in this text, everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
 
@@ -392,7 +400,7 @@ As pleasure, meaning, trust, belief, beauty and art are closely interconnected, 
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-08-13
+Last update: 2024-09-08
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
