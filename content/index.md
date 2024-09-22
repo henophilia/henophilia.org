@@ -265,6 +265,8 @@ Some associated terms include:
 - the world envisioned in [Utopia](https://en.wikipedia.org/wiki/Utopia_(book)) by Thomas More
 - a society solely consisting of individuals striving for
 	- Maslow's [self-actualization](https://en.wikipedia.org/wiki/Self-actualization) (through [metamotivation](https://en.wikipedia.org/wiki/Metamotivation))
+	- Frankl's [self-transcendence](https://en.wikipedia.org/wiki/Self-transcendence)
+	- stages 6 and/or 7 in [Kohlberg's stages of moral development](https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development)
 	- [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 	- [buddhahood or sammā-sambodhi](https://en.wikipedia.org/wiki/Buddhahood) in Buddhism (through [bodhicitta](https://en.wikipedia.org/wiki/Bodhicitta))
 	- [de](https://en.wikipedia.org/wiki/De_(Chinese)) in Taoism
@@ -401,7 +403,7 @@ As pleasure, meaning, trust, belief, beauty and art are closely interconnected, 
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-09-08
+Last update: 2024-09-22
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
