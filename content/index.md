@@ -393,8 +393,7 @@ This means that in the entire domain of striving towards flourishing, henophilia
 - hosting events, building communities and eventually building societies and ecosystems oriented around the concept of henophilia
 
 Some ongoing projects are:
-- realizing mechanisms to greatly increase the accessibility to funding for henophilic projects, e.g. from foundations, governments, private individuals, inheritance etc.
-	- see https://funding.henophilia.org
+- realizing mechanisms to greatly increase the accessibility to funding for philanthropic projects, e.g. from foundations, governments, private individuals, inheritance etc. (see https://funding.henophilia.org)
 ## Reflection
 The concept of henophilia has implications even for the choice of the word "henophilia" for itself. Of course that word is completely arbitrary. That term was only chosen to be able to talk **about** the concept at all, but it never claims any authority. Everyone can make up different words for what is called "henophilia" in this text, everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
 
@@ -402,7 +401,7 @@ As pleasure, meaning, trust, belief, beauty and art are closely interconnected, 
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-09-22
+Last update: 2024-09-24
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
