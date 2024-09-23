@@ -392,6 +392,7 @@ This means that in the entire domain of striving towards flourishing, henophilia
 
 Some ongoing projects in different stages are:
 - realizing mechanisms to greatly increase the accessibility to funding for henophilic projects, e.g. from foundations, governments, private individuals, inheritance etc.
+	- see https://funding.henophilia.org
 - establishing containers to tackle [existential isolation](https://en.wikipedia.org/wiki/Existential_isolation) within people, i.e. "the subjective sense that persons are alone in their experience and that others are unable to understand their perspective"
 - an app for LLM-based conflict resolution assistance, for groups of all sizes, i.e. ranging from inner conflicts of an individual to large-scale societal transitions
 
@@ -415,8 +416,6 @@ Just like trust, henophilia is a purely cognitive concept. It's a verbalization 
 
 Especially if you react with "yeah of course, it's so obvious!" to this, I would genuinely love to hear from you, as it's a bit of a passion project of mine. Despite my research, I just haven't found anything **actually** similar. Sometimes it feels a bit weird that in the spectrum of "possible world views", henophilia isn't the norm yet, because it seems pretty obvious to me. That the desire to heal broken unity is the single most important belief for every individual in humanity to cultivate. And there is a path beyond healing. And that that path is pretty fucking powerful.
 
-The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can consciously decide ourselves what this entails. Enthusiastic consent only.
-
-My email address is in the "Co-creation" section above, in case you haven't seen. The "formal part". Everything is co-creation, duh! 💞
+The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can consciously decide ourselves what this entails. Enthusiastic consent only. 💞
 
 –J
