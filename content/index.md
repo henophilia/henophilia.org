@@ -290,6 +290,8 @@ Connecting the dots, henophilia is a world view consisting of:
 Expressed as a single commitment: "**I strive for flourishing**". When meeting another henophile, it is represented by the fundamentally trusting sentiment of "**I know that you strive for flourishing and you know that I strive for flourishing**". In addition to encouraging the conscious **creation** of pleasure-related synergies ("I want to do you good") it also has a profound impact on conflict resolution, because the focus is shifted from a confrontative mindset to an empathetic, reflective approach akin to mutually asking "How did I hurt you?" and finding a compromise on "How can I do better next time?".
 
 Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". Answering "to be or not to be?" with an enthusiastic "let's be!". It aims to make the [numinous](https://en.wikipedia.org/wiki/Numinous) ultimately joyful. It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros). 
+
+It is closely associated with the [New Regenerative Paradigm](https://secondrenaissance.net/) (NRP) and thus topics like community building, inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, holistic flourishing, etc.
 ## Characterizing henophilia
 First, let's make some more observations:
 
@@ -390,13 +392,9 @@ This means that in the entire domain of striving towards flourishing, henophilia
 - openly sharing knowledge to allow people to learn how to build decentralized organizational structures (e.g. physical spaces, universal basic income, foundations etc.) to become able to actually dedicate their time to henophilia and to later share this privilege with more and more others
 - hosting events, building communities and eventually building societies and ecosystems oriented around the concept of henophilia
 
-Some ongoing projects in different stages are:
+Some ongoing projects are:
 - realizing mechanisms to greatly increase the accessibility to funding for henophilic projects, e.g. from foundations, governments, private individuals, inheritance etc.
 	- see https://funding.henophilia.org
-- establishing containers to tackle [existential isolation](https://en.wikipedia.org/wiki/Existential_isolation) within people, i.e. "the subjective sense that persons are alone in their experience and that others are unable to understand their perspective"
-- an app for LLM-based conflict resolution assistance, for groups of all sizes, i.e. ranging from inner conflicts of an individual to large-scale societal transitions
-
-If any of these sound interesting to you and you would like to collaborate, feel free to contact synergies@henophilia.org!
 ## Reflection
 The concept of henophilia has implications even for the choice of the word "henophilia" for itself. Of course that word is completely arbitrary. That term was only chosen to be able to talk **about** the concept at all, but it never claims any authority. Everyone can make up different words for what is called "henophilia" in this text, everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
 
