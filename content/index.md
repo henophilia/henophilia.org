@@ -401,7 +401,7 @@ As pleasure, meaning, trust, belief, beauty and art are closely interconnected, 
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Last update: 2024-09-24
+Last update: 2024-10-02
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
@@ -413,6 +413,6 @@ Just like trust, henophilia is a purely cognitive concept. It's a verbalization 
 
 Especially if you react with "yeah of course, it's so obvious!" to this, I would genuinely love to hear from you, as it's a bit of a passion project of mine. Despite my research, I just haven't found anything **actually** similar. Sometimes it feels a bit weird that in the spectrum of "possible world views", henophilia isn't the norm yet, because it seems pretty obvious to me. That the desire to heal broken unity is the single most important belief for every individual in humanity to cultivate. And there is a path beyond healing. And that that path is pretty fucking powerful.
 
-The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can consciously decide ourselves what this entails. Enthusiastic consent only. 💞
+The "art project" part of this website also entails the intention of mine to find pleasure-creationary **collaborators** for myself. Like, [love](https://en.wikipedia.org/wiki/Greek_words_for_love). Not the exclusive type of love how it is dictated by standard social norms. But where we can consciously decide ourselves what this entails. Enthusiastic consent only 💞
 
 –J
