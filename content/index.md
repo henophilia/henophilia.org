@@ -403,7 +403,7 @@ The concept of henophilia has implications even for the choice of the word "heno
 
 As pleasure, meaning, trust, belief, beauty and art are closely interconnected, by expressing henophilia, henophilia.org sees itself merely as a highly dynamic **art project**, focusing on holistic creativity and creation. [Ideas deserve to be aesthetic.](https://signaturen-magazin.de/georg-wilhelm-friedrich-hegel---das-aelteste-systemprogramm-des-deutschen-idealismus--.html) Just like any art, the beauty of henophilia cannot be described, but it can only be felt.
 # Co-creation
-Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/henophilia/henophilia.org). Additionally, this text shall be available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license, i.e. in the public domain.
+Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/henophilia/henophilia.org/issues). Additionally, this text shall be available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license, i.e. in the public domain.
 
 Last update: 2024-10-03
 # Epilogue
