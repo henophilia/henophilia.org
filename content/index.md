@@ -19,6 +19,9 @@ Terms for this concept in different frameworks include:
 - [wakan tanka](https://en.wikipedia.org/wiki/Wakan_Tanka) in Lakota spirituality
 - [teotl](https://en.wikipedia.org/wiki/Teotl) in Aztec frameworks
 - [chaos](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Greco-Roman_tradition) in Greco-Roman tradition
+- [as above, so below](https://en.wikipedia.org/wiki/Emerald_Tablet) in the Hermetica
+- [anima mundi](https://en.wikipedia.org/wiki/Anima_mundi)
+- [prima materia](https://en.wikipedia.org/wiki/Prima_materia)
 - [tiamat](https://en.wikipedia.org/wiki/Tiamat) in Mesopotamian religion
 - [ginnungagap](https://en.wikipedia.org/wiki/Ginnungagap) in Nordic mythology
 - [universal set](https://en.wikipedia.org/wiki/Universal_set) in mathematics
@@ -88,6 +91,7 @@ Related terms include:
 	- [right effort](https://en.wikipedia.org/wiki/Noble_Eightfold_Path#Right_effort) in the Noble Eightfold Path
 - [kavanah](https://en.wikipedia.org/wiki/Kavanah) in Judaism
 - [asceticism](https://en.wikipedia.org/wiki/Asceticism)
+- [projection](https://en.wikipedia.org/wiki/Projection_(alchemy)) in alchemy
 
 Terms related to an overly enthusiastic, uncritical primordial striving include [fanaticism](https://en.wikipedia.org/wiki/Fanaticism) and [zeal](https://en.wiktionary.org/wiki/zeal).
 
@@ -279,7 +283,7 @@ Some associated terms include:
 - "heno-": prefix derived from Greek "hen-" (ἕν), meaning "one" or "unity"; in this context related to the One
 - "-philia": suffix derived from Greek "philos" (φίλος), meaning "friend", "beloved" or "having a strong affinity for", denoting a close, affectionate relationship implying a deep sense of respect and love
 
-Thus literally, "henophilia" means "One-love", implying both "loving the One" and "the One is love". It acknowledges that, because all world views are constructed, humankind can make a conscious choice on how it **wants** to construct a world view.
+Thus literally, "henophilia" means "unity love", implying both "loving unity" and "unity is love". It acknowledges that, because all world views are constructed, humankind can make a conscious choice on how it **wants** to construct a world view.
 
 Connecting the dots, henophilia is a world view consisting of:
 - **flourishing** as the One
@@ -399,9 +403,9 @@ The concept of henophilia has implications even for the choice of the word "heno
 
 As pleasure, meaning, trust, belief, beauty and art are closely interconnected, by expressing henophilia, henophilia.org sees itself merely as a highly dynamic **art project**, focusing on holistic creativity and creation. [Ideas deserve to be aesthetic.](https://signaturen-magazin.de/georg-wilhelm-friedrich-hegel---das-aelteste-systemprogramm-des-deutschen-idealismus--.html) Just like any art, the beauty of henophilia cannot be described, but it can only be felt.
 # Co-creation
-Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
+Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/pleasurerealizers/pleasurerealizers.org). Additionally, this text shall be available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license.
 
-Last update: 2024-10-02
+Last update: 2024-10-03
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
