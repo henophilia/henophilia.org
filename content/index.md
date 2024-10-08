@@ -30,6 +30,7 @@ Terms for this concept in different frameworks include:
 - [unmoved mover](https://en.wikipedia.org/wiki/Unmoved_mover)
 - [perfection](https://en.wikipedia.org/wiki/Perfection)
 - [cosmic consciousness](https://en.wikipedia.org/wiki/Cosmic_Consciousness)
+- [ego death](https://en.wikipedia.org/wiki/Ego_death) 
 
 Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which are always related to a world view's concept of the One, are, by definition, [epic](https://en.wikipedia.org/wiki/Epic_poetry).
 
