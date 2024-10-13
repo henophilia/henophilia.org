@@ -32,7 +32,7 @@ Terms for this concept in different frameworks include:
 - [cosmic consciousness](https://en.wikipedia.org/wiki/Cosmic_Consciousness)
 - [ego death](https://en.wikipedia.org/wiki/Ego_death) 
 
-Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which are always related to a world view's concept of the One, are, by definition, [epic](https://en.wikipedia.org/wiki/Epic_poetry).
+Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which are always related to a world view's concept of the One, are, by definition, [epic](https://en.wikipedia.org/wiki/Epic_poetry). Subjective human experiences of the One are the primary object of study in [neurotheology](https://en.wikipedia.org/wiki/Neuroscience_of_religion).
 
 The One can fundamentally not be "proven", because proofs need to exist within a space that has notions of "true" and "false" (see [dualism](https://en.wikipedia.org/wiki/Dualism)), which is not the case for the monist One. Strictly dualist domains (particularly formal logic) are always somehow [paradoxical](https://en.wikipedia.org/wiki/Paradox) and incomplete when they are applied to **self-referential** cases, i.e. there are always fundamental limitations in formal systems or theories, such as:
 
@@ -43,7 +43,7 @@ The One can fundamentally not be "proven", because proofs need to exist within a
 - [singularities](https://en.wikipedia.org/wiki/Gravitational_singularity) in physics
 - [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) in mathematics (trying to "quantify nothing")
 
- That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false".
+That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false". In terms of Eastern religions, this can be associated with the [catuṣkoṭi](https://en.wikipedia.org/wiki/Catu%E1%B9%A3ko%E1%B9%ADi) and the [two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine).
 # The human experience
 ## Systems
 ### Separation
@@ -274,6 +274,7 @@ Some associated terms include:
 	- stages 6 and/or 7 in [Kohlberg's stages of moral development](https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development)
 	- [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 	- [buddhahood or sammā-sambodhi](https://en.wikipedia.org/wiki/Buddhahood) in Buddhism (through [bodhicitta](https://en.wikipedia.org/wiki/Bodhicitta))
+	- transitioning through the [Five Ranks](https://en.wikipedia.org/wiki/Five_Ranks) in Zen Buddhism
 	- [de](https://en.wikipedia.org/wiki/De_(Chinese)) in Taoism
 	- various notions of excellence, such as
 		- [arete](https://en.wikipedia.org/wiki/Arete) in the works of Aristotle
@@ -398,7 +399,7 @@ This means that in the entire domain of striving towards flourishing, henophilia
 - hosting events, building communities and eventually building societies and ecosystems oriented around the concept of henophilia
 
 Some ongoing projects are:
-- realizing mechanisms to greatly increase the accessibility to funding for philanthropic projects, e.g. from foundations, governments, private individuals, inheritance etc. (see https://funding.henophilia.org)
+- realizing mechanisms to greatly facilitate the realization of philanthropic projects, see https://hermesloom.org/ with the mission statement "Driving regenerative societal transformation through humanist artificial intelligence."
 ## Reflection
 The concept of henophilia has implications even for the choice of the word "henophilia" for itself. Of course that word is completely arbitrary. That term was only chosen to be able to talk **about** the concept at all, but it never claims any authority. Everyone can make up different words for what is called "henophilia" in this text, everyone can start attributing symbology to it and everyone can write about it. The only shared constraint should be that no one sees their term as "the only true term", their symbol as "the only true symbol" for henophilia etc., because that would contradict the point of henophilia itself.
 
@@ -406,7 +407,7 @@ As pleasure, meaning, trust, belief, beauty and art are closely interconnected, 
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/henophilia/henophilia.org/issues). Additionally, this text shall be available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license, i.e. in the public domain.
 
-Last update: 2024-10-04
+Last update: 2024-10-13
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
