@@ -297,9 +297,9 @@ Expressed as a single commitment: "**I strive for flourishing**". When meeting a
 
 Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". Answering "to be or not to be?" with an enthusiastic "let's be!". It aims to make the [numinous](https://en.wikipedia.org/wiki/Numinous) ultimately joyful. It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
 
-It means applying the [principles of good sex](https://chatgpt.com/share/670bc9db-555c-8003-a2c0-7773e8bbe204) to the rest of one's life.
-
 It is closely associated with the [Reemerging Regenerative Paradigm](https://secondrenaissance.net/) (RRP) and thus topics like community building, inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, holistic flourishing, etc.
+
+It means applying the [principles of good sex](https://chatgpt.com/share/670bc9db-555c-8003-a2c0-7773e8bbe204) to the rest of one's life.
 ## Characterizing henophilia
 First, let's make some more observations:
 
