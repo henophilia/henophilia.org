@@ -43,7 +43,7 @@ The One can fundamentally not be "proven", because proofs need to exist within a
 - [singularities](https://en.wikipedia.org/wiki/Gravitational_singularity) in physics
 - [division by zero](https://en.wikipedia.org/wiki/Division_by_zero) in mathematics (trying to "quantify nothing")
 
-That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false". In terms of Eastern religions, this can be associated with the [catuṣkoṭi](https://en.wikipedia.org/wiki/Catu%E1%B9%A3ko%E1%B9%ADi) and the [two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine).
+That is also why the fundamental question of metaphysics, [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F), cannot be answered. After all, the defining characteristic of an **answer** to a question is that it is **true**. However, this question is beyond any realm with the notions of "true" or "false". In terms of Eastern religions, this can be associated with the [two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine). And consequently, depending on the interpretation of that, with the [catuṣkoṭi](https://en.wikipedia.org/wiki/Catu%E1%B9%A3ko%E1%B9%ADi) and [four-valued logic](https://en.wikipedia.org/wiki/Four-valued_logic).
 # The human experience
 ## Systems
 ### Separation
@@ -299,7 +299,7 @@ Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy
 
 It means applying the [principles of good sex](https://chatgpt.com/share/670bc9db-555c-8003-a2c0-7773e8bbe204) to the rest of one's life.
 
-It is closely associated with the [Reemerging Regenerative Paradigm](https://secondrenaissance.net/) (RRP) and thus topics like community building, inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, holistic flourishing, etc.
+Another term closely associated with Henophilia is "**holistic regeneration**" and thus topics like community building, inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, positive psychology, holistic flourishing, etc.
 ## Characterizing henophilia
 First, let's make some more observations:
 
