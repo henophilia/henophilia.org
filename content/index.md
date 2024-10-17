@@ -409,7 +409,7 @@ As pleasure, meaning, trust, belief, beauty and art are closely interconnected, 
 # Co-creation
 Following the spirit of realizing synergetic pleasure, of course this is a co-creative work. If you deeply resonate with this and want to start ideating and building, please get in touch via synergies@henophilia.org. If you disagree with anything or think that something is incomplete or incorrect, please get in touch via email as well or [raise an issue on GitHub](https://github.com/henophilia/henophilia.org/issues). Additionally, this text shall be available under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) license, i.e. in the public domain.
 
-Last update: 2024-10-16
+Last update: 2024-10-17
 # Epilogue
 Primordial trust in yourself is **equivalent** to henophilia, i.e. one core part of henophilia is itself. From the practical side, belief systems are always somewhat self-referential and that's what makes them mystic. Maybe henophilia.org is the better promised second volume of Hölderlin's Hyperion?
 
