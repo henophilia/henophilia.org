@@ -60,6 +60,7 @@ Terms related to this observation include:
 - [panentheism](https://en.wikipedia.org/wiki/Panentheism)
 - [emanationism](https://en.wikipedia.org/wiki/Emanationism)
 - the unity of [transcendence](https://en.wikipedia.org/wiki/Transcendence_(religion)) and [immanence](https://en.wikipedia.org/wiki/Immanence)
+- [holon](https://en.wikipedia.org/wiki/Holon_(philosophy))
 - [maya](https://en.wikipedia.org/wiki/Maya_(religion)) in Advaita Vedanta (Hinduism)
 - [taiji](https://en.wikipedia.org/wiki/Taiji_(philosophy)) in Daoism
 	- [yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
@@ -295,7 +296,7 @@ Connecting the dots, henophilia is a world view consisting of:
 
 Expressed as a single commitment: "**I strive for flourishing**". When meeting another henophile, it is represented by the fundamentally trusting sentiment of "**I know that you strive for flourishing and you know that I strive for flourishing**". In addition to encouraging the conscious **creation** of pleasure-related synergies ("I want to do you good") it also has a profound impact on conflict resolution, because the focus is shifted from a confrontative mindset to an empathetic, reflective approach akin to mutually asking "How did I hurt you?" and finding a compromise on "How can I do better next time?". This means it is also closely connected to [relational-cultural theory](https://en.wikipedia.org/wiki/Relational-cultural_therapy) as well as [nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication).
 
-Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". Answering "to be or not to be?" with an enthusiastic "let's be!". It aims to make the [numinous](https://en.wikipedia.org/wiki/Numinous) ultimately joyful. It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros).
+Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy of needs, "transcendence". Answering "to be or not to be?" with an enthusiastic "let's be!". It aims to make the [numinous](https://en.wikipedia.org/wiki/Numinous) ultimately joyful. It is [Divine Eros](https://en.wikipedia.org/wiki/Platonic_love#Eros). It is identical to feminist theology, as outlined by [Ruether](https://www.amazon.de/-/en/Rosemary-Radford-Ruether/dp/1620327120).
 
 It means applying the [principles of good sex](https://chatgpt.com/share/670bc9db-555c-8003-a2c0-7773e8bbe204) to the rest of one's life.
 
