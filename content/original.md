@@ -1,7 +1,3 @@
-intention here!
-
----
-
 Imagine that you have just been born. Certain terms might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms ([tabula rasa](https://en.wikipedia.org/wiki/Tabula_rasa)) and engage in [bracketing](https://en.wikipedia.org/wiki/Bracketing_(phenomenology)) and [shoshin](https://en.wikipedia.org/wiki/Shoshin).
 
 # The One
