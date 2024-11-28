@@ -1,36 +1,41 @@
+intention here!
+
+---
+
 Imagine that you have just been born. Certain terms might be used here in a slightly different context than you are used to, so try to ignore what you already know about the meaning of these terms ([tabula rasa](https://en.wikipedia.org/wiki/Tabula_rasa)) and engage in [bracketing](https://en.wikipedia.org/wiki/Bracketing_(phenomenology)) and [shoshin](https://en.wikipedia.org/wiki/Shoshin).
+
 # The One
 "The One" shall refer to the ultimate, transcendent principle which relates to unity and simplicity, beyond all multiplicity and distinctions. The One can be seen as "godly" in the sense of "The divine encompasses everything".
 
 Terms for this concept in different frameworks include:
-- [the One](https://en.wikipedia.org/wiki/Neoplatonism#The_One) in the works of Plotinus (neoplatonism)
-- [monism](https://en.wikipedia.org/wiki/Monism) and [nondualism](https://en.wikipedia.org/wiki/Nondualism)
-- [pantheism](https://en.wikipedia.org/wiki/Pantheism)
-- the [absolute](https://en.wikipedia.org/wiki/Absolute_(philosophy)) in the works of Hegel and others
-- [nirvana](https://en.wikipedia.org/wiki/Nirvana) and [moksha](https://en.wikipedia.org/wiki/Moksha) in Dharmic religions
-- seeing [brahman](https://en.wikipedia.org/wiki/Brahman) and [atman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) as identical, as in the Hindu school of [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (advaita = non-dualism, vedanta = dualism)
+- [The One](https://en.wikipedia.org/wiki/Neoplatonism#The_One) in the works of Plotinus (neoplatonism)
+- [Monism](https://en.wikipedia.org/wiki/Monism) and [Nondualism](https://en.wikipedia.org/wiki/Nondualism)
+- [Pantheism](https://en.wikipedia.org/wiki/Pantheism)
+- the [Absolute](https://en.wikipedia.org/wiki/Absolute_(philosophy)) in the works of Hegel and others
+- [Nirvana](https://en.wikipedia.org/wiki/Nirvana) and [Moksha](https://en.wikipedia.org/wiki/Moksha) in Dharmic religions
+- seeing [Brahman](https://en.wikipedia.org/wiki/Brahman) and [Atman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) as identical, as in the Hindu school of [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (advaita = non-dualism, vedanta = dualism)
 - [the Tao](https://en.wikipedia.org/wiki/Tao) in Daoism
-- the experience of [satori](https://en.wikipedia.org/wiki/Satori) in Zen buddhism
-- [waheguru](https://en.wikipedia.org/wiki/Waheguru) in Sikhism
+- the experience of [Satori](https://en.wikipedia.org/wiki/Satori) in Zen buddhism
+- [Waheguru](https://en.wikipedia.org/wiki/Waheguru) in Sikhism
 - [God](https://en.wikipedia.org/wiki/God) and [YHWH](https://en.wikipedia.org/wiki/Tetragrammaton)
 - [Ein Sof](https://en.wikipedia.org/wiki/Ein_Sof) in Kabbalah
-- [wujūd](https://en.wikipedia.org/wiki/Wujud) in Sufism
-- [tawhid](https://en.wikipedia.org/wiki/Tawhid) and [al-aḥad](https://en.wikipedia.org/wiki/Al-A%E1%B8%A5ad) in Islam
-- [wakan tanka](https://en.wikipedia.org/wiki/Wakan_Tanka) in Lakota spirituality
-- [teotl](https://en.wikipedia.org/wiki/Teotl) in Aztec frameworks
-- [chaos](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Greco-Roman_tradition) in Greco-Roman tradition
-- [as above, so below](https://en.wikipedia.org/wiki/Emerald_Tablet) in the Hermetica
-- [anima mundi](https://en.wikipedia.org/wiki/Anima_mundi)
-- [prima materia](https://en.wikipedia.org/wiki/Prima_materia)
-- [tiamat](https://en.wikipedia.org/wiki/Tiamat) in Mesopotamian religion
-- [ginnungagap](https://en.wikipedia.org/wiki/Ginnungagap) in Nordic mythology
-- [universal set](https://en.wikipedia.org/wiki/Universal_set) in mathematics
+- [Wujūd](https://en.wikipedia.org/wiki/Wujud) in Sufism
+- [Tawhid](https://en.wikipedia.org/wiki/Tawhid) and [Al-Aḥad](https://en.wikipedia.org/wiki/Al-A%E1%B8%A5ad) in Islam
+- [Wakan Tanka](https://en.wikipedia.org/wiki/Wakan_Tanka) in Lakota spirituality
+- [Teotl](https://en.wikipedia.org/wiki/Teotl) in Aztec frameworks
+- [Chaos](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Greco-Roman_tradition) in Greco-Roman tradition
+- [As Above, So Below](https://en.wikipedia.org/wiki/Emerald_Tablet) in the Hermetica
+- [Anima Mundi](https://en.wikipedia.org/wiki/Anima_mundi)
+- [Prima Materia](https://en.wikipedia.org/wiki/Prima_materia)
+- [Tiamat](https://en.wikipedia.org/wiki/Tiamat) in Mesopotamian religion
+- [Ginnungagap](https://en.wikipedia.org/wiki/Ginnungagap) in Nordic mythology
+- [Universal Set](https://en.wikipedia.org/wiki/Universal_set) in mathematics
 - [Theory of Everything](https://en.wikipedia.org/wiki/Theory_of_everything) (Weltformel) in physics
-- [actus purus](https://en.wikipedia.org/wiki/Actus_purus)
-- [unmoved mover](https://en.wikipedia.org/wiki/Unmoved_mover)
-- [perfection](https://en.wikipedia.org/wiki/Perfection)
-- [cosmic consciousness](https://en.wikipedia.org/wiki/Cosmic_Consciousness)
-- [ego death](https://en.wikipedia.org/wiki/Ego_death) 
+- [Actus Purus](https://en.wikipedia.org/wiki/Actus_purus)
+- [Unmoved Mover](https://en.wikipedia.org/wiki/Unmoved_mover)
+- [Perfection](https://en.wikipedia.org/wiki/Perfection)
+- [Cosmic Consciousness](https://en.wikipedia.org/wiki/Cosmic_Consciousness)
+- [Ego Death](https://en.wikipedia.org/wiki/Ego_death) 
 
 Especially [creation myths](https://en.wikipedia.org/wiki/Creation_myth), which are always related to a world view's concept of the One, are, by definition, [epic](https://en.wikipedia.org/wiki/Epic_poetry). Subjective human experiences of the One are the primary object of study in [neurotheology](https://en.wikipedia.org/wiki/Neuroscience_of_religion).
 
