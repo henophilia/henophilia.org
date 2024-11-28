@@ -10,6 +10,6 @@ There will never be courses, retreats, organizations etc. solely dedicated to "l
 
 The term "Henophilia" (hen = unity, philia = love/friendship) does not claim any authority. This culture encourages individuals to find their own terms for it over the course of their own, personal journey towards flourishing. At its current stage, it does not possess a symbol, except for the word "Henophilia" itself.
 
-The full original text, which sees itself both as a literary art piece and a rough theological-sociological-psychological comparison study, can be found [here](/original).
+[This](https://chatgpt.com/share/67490180-191c-8003-b515-2d344444c425) is quite a good summary of Henophilia in "explain like I'm five" style. The full original text, which sees itself both as a literary art piece and a rough theological-sociological-psychological comparison study, can be found [here](/original).
 
 Contact: synergies@henophilia.org
