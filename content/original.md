@@ -281,6 +281,7 @@ Some associated terms include:
 	- various notions of excellence, such as
 		- [arete](https://en.wikipedia.org/wiki/Arete) in the works of Aristotle
 		- [pāramitā](https://en.wikipedia.org/wiki/P%C4%81ramit%C4%81) in Buddhism
+  - [beatification](https://en.wikipedia.org/wiki/Beatification)
 # Henophilia
 ## The term
 "Henophilia" is a newly constructed term which combines:
