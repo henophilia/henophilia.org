@@ -1,6 +1,6 @@
 This page is a rough draft outlining **Henophilia**, the verbalization of a culture embracing holistic well-being.
 
-First and foremost, Henophilia is an intercultural, global **culture**: It strives to establish a common standard on **how we want to interact** and what constitutes high-quality, nuanced, reflected, enriching communication, no matter your background. Even though it is formulated in English for now, it strives to become universally understandable and applicable for all humans on earth. Various institutional, radically democratic, highly decentralized organizational structures will emanate from it over time.
+First and foremost, Henophilia is an intercultural, global **culture**: It strives to establish a common standard on **how we want to interact** and what constitutes high-quality, nuanced, reflected, enriching communication, no matter your background. Even though it is formulated in English for now, it strives to become universally understandable and applicable for all humans on earth. Various institutional, radically democratic, highly decentralized organizational structures will emanate from it over time. Henophilia can be seen as the opposite of nihilism, because it's symbolically equal to the *opposite of nothing*.
 
 Furthermore, Henophilia is a personal **life philosophy** and a **way of life**. Actually thinking and living according to it results in an incredibly fulfilling attitude towards life and leads to a deep sense of groundedness and the feeling of "arriving" in your personal peace of mind. It means embodying "A dream we dream together is reality".
 
@@ -11,5 +11,7 @@ There will never be courses, retreats, organizations etc. solely dedicated to "l
 The term "Henophilia" (hen = unity, philia = love/friendship) does not claim any authority. This culture encourages individuals to find their own terms for it over the course of their own, personal journey towards flourishing. At its current stage, it does not possess a graphical symbol, except for the word "Henophilia" itself, written in Latin letters. Capialization of the H is recommended, but not required.
 
 [This](https://chatgpt.com/share/67490180-191c-8003-b515-2d344444c425) is quite a good summary of Henophilia in "explain like I'm five" style. The full original text, which sees itself both as a literary art piece and a rough theological-sociological-psychological comparison study, can be found [here](/original).
+
+Additionally, I am currently creating a [presentation](https://docs.google.com/presentation/d/13rSEdOc0uKk0Z5scKJKK8w7l4Gz4V60aUqFOXEWAyG4/edit#slide=id.p) (in German, because I love it) which aims to structure the emergence of Henophilia further, down to a 3-adic chapter structure. I'd be grateful for any assistance or critique. Should it transition to real life? Also I know it can make some people feel small, which is something I'm working on to adjust.
 
 Contact: synergies@henophilia.org
