@@ -20,7 +20,7 @@ Henophilia is also a special kind of **belief system**, but instead of seeing th
 
 There will never be courses, retreats, organizations etc. solely dedicated to "learning Henophilia" or anything similar. Henophilia can only be felt through deep, compassionate, genuine friendship, both with yourself, with other people and with nature, combined with the intense excitement for life itself. At the same time, henophilia.org aims to provide links to associated projects, where practicing Henophilia might become easier, at the end of this page. After all, large-scale global transformations will be essential, as the large-scale transition to Henophilic Thought can be seen as humanity's most important task right now and the next major stage of human evolution. [Hermes' Loom](https://hermesloom.org) can be a starting point, initiated by the author who also wrote this page.
 
-The term "Henophilia" (hen = unity, philia = love/friendship) does not claim any authority. This culture encourages individuals to find their own terms for it over the course of their own, personal journey towards flourishing. At its current stage, it does not possess a graphical symbol, except for the word "Henophilia" itself, written in Latin letters. Capialization of the H is recommended, but not required.
+I came up with the term "Henophilia" (hen = unity, philia = love/friendship) due to the reasons outlined below. In the end, I don't care what you call it, I just want you to be a decent human. I don't know if anyone else will ever use the term "Henophilia"; in any case, it requires individuals to find their own terms for it over the course of their own, personal journey towards realizing flourishing.
 
 [This](https://chatgpt.com/share/67490180-191c-8003-b515-2d344444c425) is quite a good summary of Henophilia in "explain like I'm five" style. The full original text, which sees itself both as a literary art piece and a rough theological-sociological-psychological comparison study, can be found [here](/original).
 
@@ -334,7 +334,7 @@ Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy
 
 It means applying the [principles of good sex](https://chatgpt.com/share/670bc9db-555c-8003-a2c0-7773e8bbe204) to the rest of one's life.
 
-Another term closely associated with Henophilia is "**holistic regeneration**" and thus topics like community building, inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, positive psychology, holistic flourishing, etc.
+Another term closely associated with Henophilia is "**holistic regeneration**" and thus topics like community building ("community" in the sense of D. H. Lawrence's Rananim, see [paragraph 15 here](https://journals.openedition.org/lawrence/3260)), inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, positive psychology, holistic flourishing, etc.
 ## Characterizing henophilia
 First, let's make some more observations:
 
@@ -368,6 +368,8 @@ The key is to be **open to discussion** with the goal of finding consent. After 
 
 The core point is thus the **openness** to discussion itself. Most importantly, for both participants to go into this discussion knowing that "Assuming that we are both genuinely fine with such a decision, I would be open to giving up my life for you". This is the ultimate type of consent someone could give, where they become the judge over their own life, coming from a place of genuine love and care. Acting in this way, i.e. neither dogmatically keeping nor dogmatically rejecting your own life, but instead trying to find a synergy even here, can be seen as a type of [henosis](https://en.wikipedia.org/wiki/Henosis), the boundary between the One that's conceivable by human thought and the One that cannot be thought of anymore.
 ## Related concepts and implications
+Henophilia was called "Pleasure Realizers" before the term "Henophilia" was discovered.
+
 From the ideas stated so far, which existing views are related to the idea of henophilia?
 
 First and foremost, henophilia always implies [religious pluralism](https://en.wikipedia.org/wiki/Religious_pluralism) in the sense of the deep conviction of pantheism and non-dualism, namely "there is **not only one truth**". Exclusivism ([religious exclusivism](https://en.wikipedia.org/wiki/Religious_exclusivism), but also other dogmas like [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism#Substance_or_Cartesian_dualism)), i.e. the belief that there is only "one truth which shall rule them all" or "one true set of tenets" must be overcome. Henophilia does not claim to state any truths, instead it merely expresses the "meta-truth" of "there can be multiple truths" and giving up the notion of truth as unchanging and immutable. Related terms are [henotheism](https://en.wikipedia.org/wiki/Henotheism), [kathenotheism](https://en.wikipedia.org/wiki/Kathenotheism) and [monolatry](https://en.wikipedia.org/wiki/Monolatry). More practically, this tendency towards "unity in diversity" also applies to all other aspects of the human experience, e.g. culture, relationships, gender, sexuality etc.
