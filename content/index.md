@@ -307,6 +307,7 @@ Some associated terms include:
 	- Frankl's [self-transcendence](https://en.wikipedia.org/wiki/Self-transcendence)
 	- stages 6 and/or 7 in [Kohlberg's stages of moral development](https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development)
 	- [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+	- [Glückseligkeit](https://de.wiktionary.org/wiki/Gl%C3%BCckseligkeit)
 	- [buddhahood or sammā-sambodhi](https://en.wikipedia.org/wiki/Buddhahood) in Buddhism (through [bodhicitta](https://en.wikipedia.org/wiki/Bodhicitta))
 	- transitioning through the [Five Ranks](https://en.wikipedia.org/wiki/Five_Ranks) in Zen Buddhism
 	- [de](https://en.wikipedia.org/wiki/De_(Chinese)) in Taoism
