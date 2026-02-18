@@ -1,3 +1,5 @@
+**Warning: The following text is highly provisional and should be seen purely as a personal meditation on the purpose and meaning of life, instead of a scientific or even decent text.**
+
 Humans started rising above other humans when they conquered the lightning.
 
 The *word* in the lightning of Zeus, of Deus, of all Divinity itself.
@@ -336,6 +338,8 @@ Henophilia can be seen as a path towards the highest stage of Maslow's hierarchy
 It means applying the [principles of good sex](https://chatgpt.com/share/670bc9db-555c-8003-a2c0-7773e8bbe204) to the rest of one's life.
 
 Another term closely associated with Henophilia is "**holistic regeneration**" and thus topics like community building ("community" in the sense of D. H. Lawrence's Rananim, see [paragraph 15 here](https://journals.openedition.org/lawrence/3260)), inner growth-oriented spirituality, ecohumanism, metamotivation, collaborative governance, commons, positive psychology, holistic flourishing, etc.
+
+What I'm basically getting at is [omnism](https://en.wikipedia.org/wiki/Omnism).
 ## Characterizing henophilia
 First, let's make some more observations:
 
