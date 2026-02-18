@@ -1,24 +1,23 @@
 # henophilia.org
 
-Welcome to the repository which contains everything hosted at henophilia.org. It uses [Flowershow](https://flowershow.app/) and Next.js. Inspired by [lifeitself.org](https://lifeitself.org/).
+Minimal static site that renders `content/index.md` with beautiful typography.
 
-## Working on the site locally 
+## Setup
 
-Prerequisites:
-
-- `node>=16`
-
-```
-$ npm install
-$ npm run dev
+```bash
+bun install
 ```
 
-Then open http://localhost:3000.
+## Development
 
-## Contact
+```bash
+bun run dev
+```
 
-Please contact synergies@henophilia.org to get in touch.
+## Build
 
-## License
+```bash
+bun run build
+```
 
-MIT
+Output in `dist/` — deploy to any static host (Vercel, Netlify, GitHub Pages, etc.).
